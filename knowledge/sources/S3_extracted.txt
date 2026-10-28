@@ -1,0 +1,579 @@
+Boromond BDD Presentation Speaking Scripts
+
+Two speaking versions for Krystal Tan. Practice the message from keywords, then use the short fallback if needed. The original presentation is unchanged.
+
+Source basis: V8 PDF, 15 pages, and the Boromond Chinese catalogue dated 20260521 found beside the attachment. V8 PPTX and speaker notes were not available. Company statements below are source-supported statements, not independently verified performance. Scripts, customer dialogue and practice prompts are suggested language. [NEEDS INTERNAL CONFIRMATION] marks unresolved facts or terms and is not spoken aloud.
+
+Timing and how to use the pack
+
+Formal route: slides 1–12, then slide 15. Cover all 15 slides in practice, but rehearse slides 13–14 separately as scenarios. After slide 12, use its closing transition and advance to slide 15. To enter the optional practice section instead, say: “Now let’s practice a booth conversation.”
+
+Version 1: 948 spoken words; about 8.6–10.0 minutes at 100–115 words per minute plus 24–30 seconds of total pauses. Target: 8–10 minutes.
+
+Version 2: 1395 spoken words; about 12.5–14.4 minutes at 100–115 words per minute plus 24–30 seconds of total pauses. Target: 12–15 minutes.
+
+Counts include scripts and one transition per formal slide. They exclude headings, coaching, pronunciation notes, Chinese, fallback lines and slides 13–14. Numbers written in words approximate speaking effort; rehearse with a timer because model names and technical numbers may slow you down. Do not rush to force a time target.
+
+For each version: read a sentence, look away, and say the idea. Then use only the memory keywords. Stress the CAPITALIZED syllable in the pronunciation hints; these are simple aids, not phonetic notation. Read model codes as letters plus numbers. Say COD as C O D; say NH3-N as ammonia nitrogen in customer conversation.
+
+Version 1  Concise presentation
+
+Slide 1  BDD Electrochemical Oxidation for Challenging Industrial Wastewater
+
+Source: V8 PDF page 1. Formal presentation.
+
+Suggested spoken script: Good morning, everyone. I'm Krystal Tan from Hunan Boromond EPT. Today, I'll introduce our BDD technology and products for challenging industrial wastewater. I'll explain the basic idea, show our product range, and walk through two reported cases. Our starting point is always the customer's water and treatment target. We use test data to guide the next step.
+
+Memory keywords: Boromond • BDD • water • products • test data
+
+Transition: Let's start with the customer's problem.
+
+If you forget: We start with the water, then discuss the product.
+
+Difficult words and pronunciation: electrochemical: ee-LEK-troh-KEM-ih-kul; oxidation: ok-sih-DAY-shun
+
+中文理解: 介绍路线：技术、产品、案例。设备图片不能代替选型依据。
+
+Slide 2  Start with your problem, not our product
+
+Source: V8 PDF page 2. Formal presentation.
+
+Suggested spoken script: Customers may come to us with high COD, organics that are hard to biodegrade, or a process that cannot reach its treatment target. Some streams also contain a lot of salt. Membrane reject and MVR concentrate are examples worth reviewing. These are starting signals, not proof that BDD will work. First, we ask about the water and the existing process.
+
+Memory keywords: COD • difficult organics • target • salt • process
+
+Transition: Now let me explain what BDD actually is.
+
+If you forget: Please tell us about your water and the target you need to reach.
+
+Difficult words and pronunciation: biodegrade: bye-oh-dih-GRAYD; concentrate: KON-sun-trayt; COD: say C O D
+
+中文理解: 先问问题，不凭高COD或高盐就认定适合BDD。
+
+Slide 3  What is BDD?
+
+Source: V8 PDF page 3. Formal presentation.
+
+Suggested spoken script: BDD stands for boron-doped diamond. In simple terms, it is a plate with a very thin diamond film. Adding boron makes the diamond conductive. In this application, BDD works as the anode, the positive electrode where oxidation takes place. V8 shows silicon or niobium substrates. The catalogue also lists a film thickness below ten micrometers and different plate shapes and sizes.
+
+Memory keywords: diamond film • boron • conductive • anode • substrate
+
+Transition: Let's look at what happens when the water enters the cell.
+
+If you forget: BDD is a conductive diamond coating used as an anode.
+
+Difficult words and pronunciation: boron: BOR-on; niobium: nye-OH-bee-um; substrate: SUB-strayt; anode: AN-ohd; micrometer: MY-kroh-mee-ter
+
+中文理解: 区分金刚石薄膜与基材。不是整块天然金刚石，也不是永不脱落的保证。
+
+Slide 4  How does BDD work?
+
+Source: V8 PDF page 4. Formal presentation.
+
+Suggested spoken script: Wastewater enters the cell. Oxidation takes place at the anode and can generate hydroxyl radicals. These can attack organic pollutants. Some reactions happen at the surface. In chloride-rich water, active chlorine can also carry oxidation into the water. That can create chlorinated by-products. We test the treated water again. We do not assume complete mineralization or the same result for every wastewater.
+
+Memory keywords: anode • radicals • chloride • by-products • retest
+
+Transition: These reactions help explain why we consider BDD, and where we need caution.
+
+If you forget: BDD oxidizes pollutants, but the water must be tested before and after treatment.
+
+Difficult words and pronunciation: hydroxyl radical: hy-DROK-sil RAD-ih-kul; chloride: KLOR-ide; mineralization: min-er-ul-ih-ZAY-shun
+
+中文理解: 直接与间接氧化并存；含氯水要关注副产物，不能把褪色等同于完全矿化。
+
+Slide 5  Why consider BDD?
+
+Source: V8 PDF page 5. Formal presentation.
+
+Suggested spoken script: BDD has a wide electrochemical window and a high oxygen evolution potential. It is chemically inert and works as a non-sacrificial anode. These are useful material properties, but they are not treatment guarantees. Life depends on the duty. Very low conductivity, heavy solids, or easily biodegradable water can make BDD a poor choice. We need to check suitability and cost before making a proposal.
+
+Memory keywords: window • oxygen evolution • inert • service life • limits
+
+Transition: With those limits in mind, here are some applications we can review.
+
+If you forget: BDD has useful properties, but it is not suitable for every water.
+
+Difficult words and pronunciation: inert: ih-NURT; sacrificial: sak-ruh-FISH-ul; evolution: ev-uh-LOO-shun
+
+中文理解: 材料优点不等于处理承诺。电位数字不是设备运行电压，测量条件待确认。
+
+Accuracy note: [NEEDS INTERNAL CONFIRMATION] Reference electrode, electrolyte, pH and measurement method for the potential and window figures. This marker is not spoken.
+
+The catalogue also gives 2.5–2.8 V in its technology comparison table, while its electrode table and V8 give 2.5–2.9 V. Do not silently reconcile these values. Confirm the context before technical use.
+
+Slide 6  Where can BDD be considered?
+
+Source: V8 PDF page 6. Formal presentation.
+
+Suggested spoken script: Potential applications include lithium battery production and recycling, pharmaceutical wastewater, and high-COD refractory streams. We also review fine chemical, agrochemical, and dye wastewater. Examples include landfill leachate and membrane or MVR concentrate. These streams may contain organics that biological treatment struggles with. Industry names help us start a conversation. The actual water analysis and treatment target decide whether we should continue.
+
+Memory keywords: lithium • pharmaceutical • refractory • concentrate • test first
+
+Transition: Next, I'll show the products we can use at different stages.
+
+If you forget: These are potential applications; testing decides the fit.
+
+Difficult words and pronunciation: pharmaceutical: far-muh-SOO-tih-kul; refractory: ree-FRAK-tuh-ree; agrochemical: ag-roh-KEM-ih-kul
+
+中文理解: 行业只是线索。含磷含氟不代表BDD可以直接去除全部磷氟。
+
+Slide 7  Level 1 and 2: plates and testing kits
+
+Source: V8 PDF page 7. Formal presentation.
+
+Suggested spoken script: We offer BDD electrode plates for cell builders and OEM partners. For testing, MU510 is a five-plate module unit. BK1.0 is a beaker module for a one-liter test. BK5.0 is a plug-and-play beaker kit, also for one liter. PK3.0 is a portable kit for on-site testing, with a recommended test volume of two to five liters. These products serve different testing needs.
+
+Memory keywords: plates • MU510 • BK1.0 • BK5.0 • PK3.0
+
+Transition: For larger tests and project systems, we move to the next product level.
+
+If you forget: We have plates, beaker products, and a portable testing kit.
+
+Difficult words and pronunciation: beaker: BEE-ker; portable: POR-tuh-bul; OEM: say O E M; BK1.0: B K one point zero
+
+中文理解: 记住角色和水量。BK5.0不是5升，PK3.0也不是固定3升；报价须确认配套范围。
+
+Slide 8  Level 3: modules, electrolyzers and systems
+
+Source: V8 PDF page 8. Formal presentation.
+
+Suggested spoken script: At this level, we offer module units, enclosed electrolyzers, and modular cabinets. The MU724, MU924, and MU1124 units are reaction stacks. The ME21424, ME21824, and ME22224 electrolyzers contain two modules in a PP shell. Cabinets add equipment such as a rectifier, pump, controls, and filtration. We select the product level from the project requirements and test data, rather than from flow rate alone.
+
+Memory keywords: MU stack • ME electrolyzer • PP shell • MC cabinet • circulation
+
+Transition: So how do we choose a sensible starting point?
+
+If you forget: We scale from modules to systems using test data.
+
+Difficult words and pronunciation: electrolyzer: ee-LEK-truh-ly-zer; rectifier: REK-tuh-fy-er; circulation: sur-kyuh-LAY-shun; PP: say P P
+
+中文理解: 区分MU模组、ME电解槽与MC系统。10立方米每小时是设计循环流量，不是达标处理量。
+
+Slide 9  How to choose the right product
+
+Source: V8 PDF page 9. Formal presentation.
+
+Suggested spoken script: The route can start with a lab evaluation using BK1.0 or BK5.0. PK3.0 can support an on-site test. An ME electrolyzer may be considered for a pilot. Project design and quotation then follow the evidence. Customers do not have to buy every stage. We start where their data stops. A plate buyer may never need a kit, and a kit result may support a pilot discussion.
+
+Memory keywords: lab • on site • pilot • project • data gap
+
+Transition: Let's see how treatment stages matter in a reported case.
+
+If you forget: Choose the next step from the missing data, not from a fixed buying sequence.
+
+Difficult words and pronunciation: pilot: PIE-lut; evaluation: ee-val-yoo-AY-shun; quotation: kwoh-TAY-shun
+
+中文理解: 不是必须逐级购买。小试证明范围有限，工程选型还需放大验证。
+
+Slide 10  Case 1 — Wet-process phosphoric acid wastewater
+
+Source: V8 PDF page 10. Formal presentation.
+
+Suggested spoken script: This is a reported case from a wet-process phosphoric acid plant in Guangxi. The raw-water COD was thirty-four thousand milligrams per liter. Several treatment steps came before BDD, including precipitation, defluoridation, UV/Fenton, and biological treatment. At the BDD stage, COD went from three thousand two hundred eighty to one hundred forty-six point eight in twelve minutes. This result belongs to that reported sample series.
+
+Memory keywords: reported • full train • pretreatment • 3280 to 146.8 • 12 minutes
+
+Transition: The next case also shows why time and energy data matter.
+
+If you forget: BDD was the final stage in this reported case, after other treatment steps.
+
+Difficult words and pronunciation: phosphoric: fos-FOR-ik; precipitation: pree-sip-ih-TAY-shun; defluoridation: dee-floor-ih-DAY-shun
+
+中文理解: 只把3280到146.8归于BDD段，不能把原水34000到末端的全流程效果归给BDD。
+
+Accuracy note: [NEEDS INTERNAL CONFIRMATION] Original case report, sampling method, BDD operating conditions, energy use and permission to use the case externally.
+
+Slide 11  Case 2 — Pharmaceutical wastewater
+
+Source: V8 PDF page 11. Formal presentation.
+
+Suggested spoken script: V8 reports a pharmaceutical wastewater case with pyridine and morpholine. The unit used batch recirculation. In three hours, COD fell from two thousand two hundred seventy-five to three hundred thirty-nine milligrams per liter. Ammonia nitrogen fell from eighty point four to one point two. The stated targets were met in this test. Reported accumulated energy was sixty-six point three kilowatt-hours per cubic meter at three hours.
+
+Memory keywords: batch • COD • ammonia nitrogen • 3 hours • energy
+
+Transition: These cases bring us back to how we work with each customer.
+
+If you forget: The targets were met in this reported test, but another water needs its own evaluation.
+
+Difficult words and pronunciation: pyridine: PEER-ih-deen; morpholine: MOR-fuh-leen; ammonia: uh-MOH-nee-uh; kilowatt-hour: KIL-uh-wot hour
+
+中文理解: 说明时间、能耗和测试边界。30吨每天不擅自改为30立方米每天，能耗不等于全运行费。
+
+Accuracy note: [NEEDS INTERNAL CONFIRMATION] Original test report, energy measurement boundary, water density, repeatability and external-use approval.
+
+Slide 12  How we work with customers
+
+Source: V8 PDF page 12. Formal presentation.
+
+Suggested spoken script: First, we understand the wastewater, target, and discharge limit. Then we review COD, ammonia nitrogen, chloride, pH, and flow. We agree on a test scope and sample handling case by case. After testing, we propose a solution and confirm delivery and commercial terms. Price depends on anode area and power. V8 states that we do not provide free equipment or free pilot units.
+
+Memory keywords: understand • review • test • propose • confirm
+
+Transition: Let's close with the principle behind this process.
+
+If you forget: We review the water, agree on testing, and then discuss a proposal.
+
+Difficult words and pronunciation: commissioning: kuh-MISH-un-ing; chloride: KLOR-ide; pH: say P H
+
+中文理解: 测试接收和范围逐案确认；没有免费设备或免费中试。具体价格交期仍需确认。
+
+Slide 13  At the booth: a short conversation
+
+Source: V8 PDF page 13. Practice scenario only; excluded from formal timing.
+
+Suggested spoken script: Visitor: What is this machine?
+Krystal: It's a BDD electrode system for challenging industrial wastewater.
+Visitor: What kind of wastewater?
+Krystal: We review high-COD water and organics that are hard to biodegrade. What's your main problem?
+Visitor: Our chemical plant has high COD.
+Krystal: Could we review your water data and discuss whether a test makes sense?
+
+Memory keywords: greet • problem • simple BDD • qualify • next step
+
+Transition: For an online meeting, we can use the same logic with more detail.
+
+If you forget: Could you tell me about your water first?
+
+Difficult words and pronunciation: booth: booth, with soft th; visitor: VIZ-ih-ter
+
+中文理解: 练习页，非正式演讲计时。访客说高COD不等于合格商机。
+
+Separate practice timing: Approximately 57 written dialogue words including role labels; allow 1–2 minutes with pauses and role changes. Not part of the formal total.
+
+Slide 14  Online meeting: five moves
+
+Source: V8 PDF page 14. Practice scenario only; excluded from formal timing.
+
+Suggested spoken script: Krystal: Thank you for joining. Can we confirm the water, target, and next step today?
+Customer: Yes.
+Krystal: In this practice example, the flow is thirty cubic meters per day, with a COD target below five hundred. Is that correct?
+Customer: Yes.
+Krystal: Could you share COD, ammonia nitrogen, chloride, pH, and your current process? We'll review the data before recommending a test.
+
+Memory keywords: agenda • confirm • explain • ask • agree
+
+Transition: We finish by agreeing on a practical next step.
+
+If you forget: Let me check that with our engineer and reply in writing.
+
+Difficult words and pronunciation: agenda: uh-JEN-duh; configuration: kun-fig-yuh-RAY-shun
+
+中文理解: 30立方米每天是原页练习假设，不是第11页案例单位换算，也不是实际客户信息。
+
+Separate practice timing: Approximately 63 written dialogue words including role labels; allow 1–2 minutes with pauses and role changes. Not part of the formal total.
+
+Slide 15  Not every wastewater project is suitable for BDD
+
+Source: V8 PDF page 15. Formal presentation.
+
+Suggested spoken script: To close, not every wastewater project is suitable for BDD. We start with water quality, the treatment target, and test data. Then we discuss the right product and commercial proposal. If you'd like to explore an application, the next step is to share the water analysis and current process for review. Thank you. I'm happy to take your questions.
+
+Memory keywords: suitability • water • target • evidence • next action
+
+Transition: What would you like to discuss about your application?
+
+If you forget: Please share your water data, and we can agree on the next step.
+
+Difficult words and pronunciation: suitable: SOO-tuh-bul; proposal: pruh-POH-zul
+
+中文理解: 结束时回到水质、目标、数据。下一步要具体，不保证所有项目适用。
+
+Version 2  Fuller presentation
+
+Slide 1  BDD Electrochemical Oxidation for Challenging Industrial Wastewater
+
+Source: V8 PDF page 1. Formal presentation.
+
+Suggested spoken script: Good morning, everyone. I'm Krystal Tan from Hunan Boromond EPT. Today, I'll introduce our BDD technology and products for challenging industrial wastewater. I'll explain the basic idea, show our product range, and walk through two reported cases. Our starting point is always the customer's water and treatment target. We use test data to guide the next step.
+
+The picture shows our MC700 eight-cell container system. We also offer electrodes and smaller testing products. Think about one question today: what do we need to know before we recommend equipment?
+
+Memory keywords: Boromond • BDD • water • products • test data
+
+Transition: Let's start with the customer's problem.
+
+If you forget: We start with the water, then discuss the product.
+
+Difficult words and pronunciation: electrochemical: ee-LEK-troh-KEM-ih-kul; oxidation: ok-sih-DAY-shun
+
+中文理解: 介绍路线：技术、产品、案例。设备图片不能代替选型依据。
+
+Slide 2  Start with your problem, not our product
+
+Source: V8 PDF page 2. Formal presentation.
+
+Suggested spoken script: Customers may come to us with high COD, organics that are hard to biodegrade, or a process that cannot reach its treatment target. Some streams also contain a lot of salt. Membrane reject and MVR concentrate are examples worth reviewing. These are starting signals, not proof that BDD will work. First, we ask about the water and the existing process.
+
+We ask where the wastewater comes from and which limit is still being missed. Salt changes the chemistry and possible by-products. We review the analysis before deciding whether a test makes sense.
+
+Memory keywords: COD • difficult organics • target • salt • process
+
+Transition: Now let me explain what BDD actually is.
+
+If you forget: Please tell us about your water and the target you need to reach.
+
+Difficult words and pronunciation: biodegrade: bye-oh-dih-GRAYD; concentrate: KON-sun-trayt; COD: say C O D
+
+中文理解: 先问问题，不凭高COD或高盐就认定适合BDD。
+
+Slide 3  What is BDD?
+
+Source: V8 PDF page 3. Formal presentation.
+
+Suggested spoken script: BDD stands for boron-doped diamond. In simple terms, it is a plate with a very thin diamond film. Adding boron makes the diamond conductive. In this application, BDD works as the anode, the positive electrode where oxidation takes place. V8 shows silicon or niobium substrates. The catalogue also lists a film thickness below ten micrometers and different plate shapes and sizes.
+
+The film provides the working surface. The substrate supports it. We can discuss single-side or double-side coating and custom formats. We confirm the cell design and application before an order.
+
+Memory keywords: diamond film • boron • conductive • anode • substrate
+
+Transition: Let's look at what happens when the water enters the cell.
+
+If you forget: BDD is a conductive diamond coating used as an anode.
+
+Difficult words and pronunciation: boron: BOR-on; niobium: nye-OH-bee-um; substrate: SUB-strayt; anode: AN-ohd; micrometer: MY-kroh-mee-ter
+
+中文理解: 区分金刚石薄膜与基材。不是整块天然金刚石，也不是永不脱落的保证。
+
+Slide 4  How does BDD work?
+
+Source: V8 PDF page 4. Formal presentation.
+
+Suggested spoken script: Wastewater enters the cell. Oxidation takes place at the anode and can generate hydroxyl radicals. These can attack organic pollutants. Some reactions happen at the surface. In chloride-rich water, active chlorine can also carry oxidation into the water. That can create chlorinated by-products. We test the treated water again. We do not assume complete mineralization or the same result for every wastewater.
+
+Salt can improve conductivity, but that alone does not make water suitable. Results and cost depend on the water, current density, and time. Some streams need pretreatment. Color removal alone does not prove compliance.
+
+Memory keywords: anode • radicals • chloride • by-products • retest
+
+Transition: These reactions help explain why we consider BDD, and where we need caution.
+
+If you forget: BDD oxidizes pollutants, but the water must be tested before and after treatment.
+
+Difficult words and pronunciation: hydroxyl radical: hy-DROK-sil RAD-ih-kul; chloride: KLOR-ide; mineralization: min-er-ul-ih-ZAY-shun
+
+中文理解: 直接与间接氧化并存；含氯水要关注副产物，不能把褪色等同于完全矿化。
+
+Slide 5  Why consider BDD?
+
+Source: V8 PDF page 5. Formal presentation.
+
+Suggested spoken script: BDD has a wide electrochemical window and a high oxygen evolution potential. It is chemically inert and works as a non-sacrificial anode. These are useful material properties, but they are not treatment guarantees. Life depends on the duty. Very low conductivity, heavy solids, or easily biodegradable water can make BDD a poor choice. We need to check suitability and cost before making a proposal.
+
+V8 and the catalogue list two point five to two point nine volts for oxygen evolution potential, and a window up to three point eight five volts. These are material specifications. Their measurement conditions need internal confirmation.
+
+Memory keywords: window • oxygen evolution • inert • service life • limits
+
+Transition: With those limits in mind, here are some applications we can review.
+
+If you forget: BDD has useful properties, but it is not suitable for every water.
+
+Difficult words and pronunciation: inert: ih-NURT; sacrificial: sak-ruh-FISH-ul; evolution: ev-uh-LOO-shun
+
+中文理解: 材料优点不等于处理承诺。电位数字不是设备运行电压，测量条件待确认。
+
+Accuracy note: [NEEDS INTERNAL CONFIRMATION] Reference electrode, electrolyte, pH and measurement method for the potential and window figures. This marker is not spoken.
+
+The catalogue also gives 2.5–2.8 V in its technology comparison table, while its electrode table and V8 give 2.5–2.9 V. Do not silently reconcile these values. Confirm the context before technical use.
+
+Slide 6  Where can BDD be considered?
+
+Source: V8 PDF page 6. Formal presentation.
+
+Suggested spoken script: Potential applications include lithium battery production and recycling, pharmaceutical wastewater, and high-COD refractory streams. We also review fine chemical, agrochemical, and dye wastewater. Examples include landfill leachate and membrane or MVR concentrate. These streams may contain organics that biological treatment struggles with. Industry names help us start a conversation. The actual water analysis and treatment target decide whether we should continue.
+
+V8 mentions phosphate and fluoride in lithium-related water. That is not a claim that BDD removes them all. It also names pyridine and morpholine in pharmaceutical water. We still need the full water profile.
+
+Memory keywords: lithium • pharmaceutical • refractory • concentrate • test first
+
+Transition: Next, I'll show the products we can use at different stages.
+
+If you forget: These are potential applications; testing decides the fit.
+
+Difficult words and pronunciation: pharmaceutical: far-muh-SOO-tih-kul; refractory: ree-FRAK-tuh-ree; agrochemical: ag-roh-KEM-ih-kul
+
+中文理解: 行业只是线索。含磷含氟不代表BDD可以直接去除全部磷氟。
+
+Slide 7  Level 1 and 2: plates and testing kits
+
+Source: V8 PDF page 7. Formal presentation.
+
+Suggested spoken script: We offer BDD electrode plates for cell builders and OEM partners. For testing, MU510 is a five-plate module unit. BK1.0 is a beaker module for a one-liter test. BK5.0 is a plug-and-play beaker kit, also for one liter. PK3.0 is a portable kit for on-site testing, with a recommended test volume of two to five liters. These products serve different testing needs.
+
+A cell builder may only need plates. A lab may prefer a beaker setup. BK1.0 has an optional power supply in the catalogue. PK3.0 uses a separate water container. We confirm the supply scope before quoting.
+
+Memory keywords: plates • MU510 • BK1.0 • BK5.0 • PK3.0
+
+Transition: For larger tests and project systems, we move to the next product level.
+
+If you forget: We have plates, beaker products, and a portable testing kit.
+
+Difficult words and pronunciation: beaker: BEE-ker; portable: POR-tuh-bul; OEM: say O E M; BK1.0: B K one point zero
+
+中文理解: 记住角色和水量。BK5.0不是5升，PK3.0也不是固定3升；报价须确认配套范围。
+
+Slide 8  Level 3: modules, electrolyzers and systems
+
+Source: V8 PDF page 8. Formal presentation.
+
+Suggested spoken script: At this level, we offer module units, enclosed electrolyzers, and modular cabinets. The MU724, MU924, and MU1124 units are reaction stacks. The ME21424, ME21824, and ME22224 electrolyzers contain two modules in a PP shell. Cabinets add equipment such as a rectifier, pump, controls, and filtration. We select the product level from the project requirements and test data, rather than from flow rate alone.
+
+Cabinets come in single-cell, dual-cell, four-cell, and eight-cell ranges. The ME design circulation flow is ten cubic meters per hour. That describes circulation, not guaranteed treatment capacity. We must keep those two ideas separate.
+
+Memory keywords: MU stack • ME electrolyzer • PP shell • MC cabinet • circulation
+
+Transition: So how do we choose a sensible starting point?
+
+If you forget: We scale from modules to systems using test data.
+
+Difficult words and pronunciation: electrolyzer: ee-LEK-truh-ly-zer; rectifier: REK-tuh-fy-er; circulation: sur-kyuh-LAY-shun; PP: say P P
+
+中文理解: 区分MU模组、ME电解槽与MC系统。10立方米每小时是设计循环流量，不是达标处理量。
+
+Slide 9  How to choose the right product
+
+Source: V8 PDF page 9. Formal presentation.
+
+Suggested spoken script: The route can start with a lab evaluation using BK1.0 or BK5.0. PK3.0 can support an on-site test. An ME electrolyzer may be considered for a pilot. Project design and quotation then follow the evidence. Customers do not have to buy every stage. We start where their data stops. A plate buyer may never need a kit, and a kit result may support a pilot discussion.
+
+At each step, we ask what question still needs an answer. Can the water reach the target? What data do our engineers need? A small test does not automatically prove full-system performance or cost.
+
+Memory keywords: lab • on site • pilot • project • data gap
+
+Transition: Let's see how treatment stages matter in a reported case.
+
+If you forget: Choose the next step from the missing data, not from a fixed buying sequence.
+
+Difficult words and pronunciation: pilot: PIE-lut; evaluation: ee-val-yoo-AY-shun; quotation: kwoh-TAY-shun
+
+中文理解: 不是必须逐级购买。小试证明范围有限，工程选型还需放大验证。
+
+Slide 10  Case 1 — Wet-process phosphoric acid wastewater
+
+Source: V8 PDF page 10. Formal presentation.
+
+Suggested spoken script: This is a reported case from a wet-process phosphoric acid plant in Guangxi. The raw-water COD was thirty-four thousand milligrams per liter. Several treatment steps came before BDD, including precipitation, defluoridation, UV/Fenton, and biological treatment. At the BDD stage, COD went from three thousand two hundred eighty to one hundred forty-six point eight in twelve minutes. This result belongs to that reported sample series.
+
+BDD did not perform the whole reduction from raw water. V8 also reports fluoride and plant-size figures. The original project report was not supplied, so the full operating conditions and independent verification need internal confirmation.
+
+Memory keywords: reported • full train • pretreatment • 3280 to 146.8 • 12 minutes
+
+Transition: The next case also shows why time and energy data matter.
+
+If you forget: BDD was the final stage in this reported case, after other treatment steps.
+
+Difficult words and pronunciation: phosphoric: fos-FOR-ik; precipitation: pree-sip-ih-TAY-shun; defluoridation: dee-floor-ih-DAY-shun
+
+中文理解: 只把3280到146.8归于BDD段，不能把原水34000到末端的全流程效果归给BDD。
+
+Accuracy note: [NEEDS INTERNAL CONFIRMATION] Original case report, sampling method, BDD operating conditions, energy use and permission to use the case externally.
+
+Slide 11  Case 2 — Pharmaceutical wastewater
+
+Source: V8 PDF page 11. Formal presentation.
+
+Suggested spoken script: V8 reports a pharmaceutical wastewater case with pyridine and morpholine. The unit used batch recirculation. In three hours, COD fell from two thousand two hundred seventy-five to three hundred thirty-nine milligrams per liter. Ammonia nitrogen fell from eighty point four to one point two. The stated targets were met in this test. Reported accumulated energy was sixty-six point three kilowatt-hours per cubic meter at three hours.
+
+The reported amount was thirty tonnes per day, with twenty point one six square meters of BDD anode area. We keep those units. The energy figure is case-specific and is not a complete operating-cost estimate.
+
+Memory keywords: batch • COD • ammonia nitrogen • 3 hours • energy
+
+Transition: These cases bring us back to how we work with each customer.
+
+If you forget: The targets were met in this reported test, but another water needs its own evaluation.
+
+Difficult words and pronunciation: pyridine: PEER-ih-deen; morpholine: MOR-fuh-leen; ammonia: uh-MOH-nee-uh; kilowatt-hour: KIL-uh-wot hour
+
+中文理解: 说明时间、能耗和测试边界。30吨每天不擅自改为30立方米每天，能耗不等于全运行费。
+
+Accuracy note: [NEEDS INTERNAL CONFIRMATION] Original test report, energy measurement boundary, water density, repeatability and external-use approval.
+
+Slide 12  How we work with customers
+
+Source: V8 PDF page 12. Formal presentation.
+
+Suggested spoken script: First, we understand the wastewater, target, and discharge limit. Then we review COD, ammonia nitrogen, chloride, pH, and flow. We agree on a test scope and sample handling case by case. After testing, we propose a solution and confirm delivery and commercial terms. Price depends on anode area and power. V8 states that we do not provide free equipment or free pilot units.
+
+We also ask for the deadline and site conditions. Support scope is agreed per project. We should not promise sample acceptance or a free test. Next, agree who will provide the water report for review.
+
+Memory keywords: understand • review • test • propose • confirm
+
+Transition: Let's close with the principle behind this process.
+
+If you forget: We review the water, agree on testing, and then discuss a proposal.
+
+Difficult words and pronunciation: commissioning: kuh-MISH-un-ing; chloride: KLOR-ide; pH: say P H
+
+中文理解: 测试接收和范围逐案确认；没有免费设备或免费中试。具体价格交期仍需确认。
+
+Slide 13  At the booth: a short conversation
+
+Source: V8 PDF page 13. Practice scenario only; excluded from formal timing.
+
+Suggested spoken script: Visitor: What is this machine?
+Krystal: It's a BDD electrode system for challenging industrial wastewater.
+Visitor: What kind of wastewater?
+Krystal: We review high-COD water and organics that are hard to biodegrade. What's your main problem?
+Visitor: Our chemical plant has high COD.
+Krystal: Could we review your water data and discuss whether a test makes sense?
+
+Visitor: Can you tell me the price?
+Krystal: We first need to understand the application and equipment scope. What are your current COD and target?
+Visitor: I'll need to check.
+Krystal: That's fine. Could you send the latest water report after the show? Then we can agree on a technical review.
+
+Memory keywords: greet • problem • simple BDD • qualify • next step
+
+Transition: For an online meeting, we can use the same logic with more detail.
+
+If you forget: Could you tell me about your water first?
+
+Difficult words and pronunciation: booth: booth, with soft th; visitor: VIZ-ih-ter
+
+中文理解: 练习页，非正式演讲计时。访客说高COD不等于合格商机。
+
+Separate practice timing: Approximately 108 written dialogue words including role labels; allow 1–2 minutes with pauses and role changes. Not part of the formal total.
+
+Slide 14  Online meeting: five moves
+
+Source: V8 PDF page 14. Practice scenario only; excluded from formal timing.
+
+Suggested spoken script: Krystal: Thank you for joining. Can we confirm the water, target, and next step today?
+Customer: Yes.
+Krystal: In this practice example, the flow is thirty cubic meters per day, with a COD target below five hundred. Is that correct?
+Customer: Yes.
+Krystal: Could you share COD, ammonia nitrogen, chloride, pH, and your current process? We'll review the data before recommending a test.
+
+Customer: Which product would we need?
+Krystal: BK1.0 or BK5.0 may support a lab trial. PK3.0 is for a portable test. An ME electrolyzer may be considered for a pilot, depending on the data.
+Customer: Can you confirm the configuration now?
+Krystal: Let me check with our engineer. First, let's agree on the missing information and testing arrangements.
+
+Memory keywords: agenda • confirm • explain • ask • agree
+
+Transition: We finish by agreeing on a practical next step.
+
+If you forget: Let me check that with our engineer and reply in writing.
+
+Difficult words and pronunciation: agenda: uh-JEN-duh; configuration: kun-fig-yuh-RAY-shun
+
+中文理解: 30立方米每天是原页练习假设，不是第11页案例单位换算，也不是实际客户信息。
+
+Separate practice timing: Approximately 124 written dialogue words including role labels; allow 1–2 minutes with pauses and role changes. Not part of the formal total.
+
+Slide 15  Not every wastewater project is suitable for BDD
+
+Source: V8 PDF page 15. Formal presentation.
+
+Suggested spoken script: To close, not every wastewater project is suitable for BDD. We start with water quality, the treatment target, and test data. Then we discuss the right product and commercial proposal. If you'd like to explore an application, the next step is to share the water analysis and current process for review. Thank you. I'm happy to take your questions.
+
+In a sales conversation, ask a useful question and listen. We do not need to explain every specification at once. We need reliable information and an agreed next action. My email and our website are on this slide.
+
+Memory keywords: suitability • water • target • evidence • next action
+
+Transition: What would you like to discuss about your application?
+
+If you forget: Please share your water data, and we can agree on the next step.
+
+Difficult words and pronunciation: suitable: SOO-tuh-bul; proposal: pruh-POH-zul
+
+中文理解: 结束时回到水质、目标、数据。下一步要具体，不保证所有项目适用。

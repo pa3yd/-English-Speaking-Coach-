@@ -1,0 +1,207 @@
+Boromond BDD Online Customer Meeting Role Play
+
+A practical meeting script and a question bank for a potential industrial customer. Start with the short answers. Use the fuller answers when comfortable, and use the fallback whenever a technical detail is unconfirmed.
+
+Source basis: V8 PDF, 15 pages, and the Boromond Chinese catalogue dated 20260521 found beside the attachment. V8 PPTX and speaker notes were not available. Company statements below are source-supported statements, not independently verified performance. Scripts, customer dialogue and practice prompts are suggested language. [NEEDS INTERNAL CONFIRMATION] marks unresolved facts or terms and is not spoken aloud.
+
+Practice setup
+
+Fictional pharmaceutical-intermediate customer. No invented customer measurements are treated as company evidence. The permit, flow and composition remain unknown until provided. Allow 8–12 minutes for the dialogue and selected questions; this is separate from the formal presentation. The Friday mentioned below is a practice commitment by the fictional customer, not a real deadline.
+
+Meeting conversation
+
+Krystal: Thanks for joining. Can you hear me clearly?
+
+Customer: Yes. We want to understand whether BDD could help our plant.
+
+Krystal: Let's review your water, confirm the target, and agree on the next technical step. Does that work?
+
+Customer: Yes. We make pharmaceutical intermediates. COD remains too high after biology.
+
+Krystal: Which production streams enter this water? Do you have a recent analysis?
+
+Customer: We have a report, but the composition changes between batches.
+
+Krystal: Please share the report and the normal range. What COD target must you reach?
+
+Customer: Our permit sets the limit. We will send it with the report.
+
+Krystal: Thank you. What is the average daily flow, and how much does it vary?
+
+Customer: Our engineer will confirm the average and peak flow.
+
+Krystal: What pretreatment comes before biology? Is there a concentrated side stream?
+
+Customer: We use equalization and pretreatment. We can send the flow diagram.
+
+Krystal: Could you also include ammonia nitrogen, chloride, pH, and the site conditions?
+
+Customer: Which product should we start with?
+
+Krystal: For a lab trial, we may consider BK1.0 or BK5.0. For an on-site test, PK3.0 may be useful.
+
+Customer: Would a pilot use the same kit?
+
+Krystal: An ME electrolyzer may be considered for a pilot. Our engineer selects it from the test data.
+
+Customer: Can you guarantee our discharge target?
+
+Krystal: Not from the information we have today. We need an agreed test and technical evaluation.
+
+Customer: What about the price?
+
+Krystal: It depends on anode area, power, and the agreed scope. A project quotation follows the technical data.
+
+Customer: Can we send a sample now?
+
+Krystal: Please wait until we agree on sample acceptance, handling, and test scope with our team.
+
+Customer: What do you need us to do next?
+
+Krystal: Please send the analysis, discharge target, flow range, and process diagram. Can your engineer provide those this week?
+
+Customer: We can aim for Friday. We will confirm if anything is missing.
+
+Krystal: Thank you. I'll coordinate the internal review after receiving them. Then we'll agree on the test scope and review meeting.
+
+Customer: That works. Please include our treatment engineer in the next meeting.
+
+Krystal: Agreed. We have not selected a model or promised a result today. Our next step is the data review.
+
+Customer questions and safe answers
+
+Question 1  Will BDD reach our discharge limit
+
+Short answer: We need to test your water against that target.
+
+Fuller answer: The V8 cases show reported results under specific conditions. They do not guarantee your result. We need representative water, a clear target, and agreed operating and sampling conditions.
+
+Safe fallback: Let me ask our engineer to confirm what can be evaluated. [NEEDS INTERNAL CONFIRMATION]
+
+Source basis: V8 4, 10–12
+
+Question 2  Can we treat high-chloride water
+
+Short answer: Chloride changes the chemistry, so we need a review.
+
+Fuller answer: Salt can improve conductivity. V8 also warns that active chlorine and chlorinated by-products can form. We must review the water and agree on the relevant analyses before deciding suitability.
+
+Safe fallback: I need our engineer to confirm the by-product assessment and acceptable conditions. [NEEDS INTERNAL CONFIRMATION]
+
+Source basis: V8 2, 4
+
+Question 3  What current density and temperature should we use
+
+Short answer: The settings depend on the model and your water.
+
+Fuller answer: The catalogue lists different model limits. MU510, for example, lists up to 100 milliamps per square centimeter, while BK products and PK3.0 list up to 55. These are model limits, not recommended settings for your water.
+
+Safe fallback: Please let our engineer confirm the operating procedure and limits for your configuration. [NEEDS INTERNAL CONFIRMATION]
+
+Source basis: Catalogue PDF 7–10; V8 4
+
+Question 4  How much energy will it use
+
+Short answer: We need measured data from your water.
+
+Fuller answer: V8 reports 66.3 kilowatt-hours per cubic meter after three hours in one pharmaceutical batch test. That is not a general consumption figure. We need to define the measurement boundary and compare it with your target.
+
+Safe fallback: Let me confirm the test energy data and cost assumptions with our engineer. [NEEDS INTERNAL CONFIRMATION]
+
+Source basis: V8 11
+
+Question 5  Does ten cubic meters per hour mean treatment capacity
+
+Short answer: That is design circulation flow, not guaranteed treatment capacity.
+
+Fuller answer: The ME catalogue gives a design inlet circulation flow of ten cubic meters per hour. Treatment capacity and batch time are listed as water-dependent. We need test data to estimate the required system.
+
+Safe fallback: Our engineer needs to calculate the project capacity from the test data. [NEEDS INTERNAL CONFIRMATION]
+
+Source basis: V8 8; Catalogue PDF 13
+
+Question 6  What comes with BK1.0 and PK3.0
+
+Short answer: We must confirm the supply scope for your quotation.
+
+Fuller answer: BK1.0 is a one-liter beaker module; the catalogue presents its power supply as optional. PK3.0 is portable and uses a separate water container, with an optimum test volume of two to five liters. Accessories and regional electrical requirements need confirmation.
+
+Safe fallback: I will confirm the exact bill of supply and electrical requirements in writing. [NEEDS INTERNAL CONFIRMATION]
+
+Source basis: Catalogue PDF 8, 10
+
+Question 7  How long will the BDD electrodes last
+
+Short answer: Life depends on the operating duty.
+
+Fuller answer: V8 calls BDD a non-sacrificial anode and says life depends on duty. The catalogue lists at least three years according to working conditions, but does not define all conditions. We should not turn that into an unconditional warranty.
+
+Safe fallback: Let me confirm the applicable service-life statement and warranty terms internally. [NEEDS INTERNAL CONFIRMATION]
+
+Source basis: V8 5; Catalogue PDF 6 printed 09
+
+Question 8  Do we need pretreatment
+
+Short answer: Possibly. We need to review the solids and water composition.
+
+Fuller answer: V8 says some waters need pretreatment and identifies heavy solids as a poor-fit signal. The phosphoric acid case had several earlier treatment stages. We cannot copy that train into your project without evaluation.
+
+Safe fallback: Our engineer must review your water and existing process before recommending pretreatment. [NEEDS INTERNAL CONFIRMATION]
+
+Source basis: V8 4–5, 10
+
+Question 9  Will BDD remove fluoride or phosphate
+
+Short answer: We cannot promise that from these slides.
+
+Fuller answer: V8 identifies lithium-related water with fluoride and phosphate loads. That is an application description, not proof of removal. In the phosphoric acid case, defluoridation happened before BDD.
+
+Safe fallback: Let me confirm the appropriate treatment route with our engineer. [NEEDS INTERNAL CONFIRMATION]
+
+Source basis: V8 6, 10
+
+Question 10  Can we copy the twelve-minute case result
+
+Short answer: That time belongs to one reported BDD stage.
+
+Fuller answer: In V8, the BDD-stage COD went from 3,280 to 146.8 milligrams per liter after several other treatments. We have not been given the original report or full operating conditions. We cannot transfer that time to your water.
+
+Safe fallback: I will request the underlying case conditions and review your application separately. [NEEDS INTERNAL CONFIRMATION]
+
+Source basis: V8 10
+
+Question 11  Which MU or ME model is right for us
+
+Short answer: We select the model from test data and the required scope.
+
+Fuller answer: V8 lists MU724, MU924, and MU1124 module units and ME21424, ME21824, and ME22224 electrolyzers. An ME unit encloses two modules in a PP shell. We must confirm working area, power, hydraulic requirements, and integration needs before selection.
+
+Safe fallback: Our engineer needs to confirm the configuration. The catalogue contains area figures that need reconciliation. [NEEDS INTERNAL CONFIRMATION]
+
+Source basis: V8 8–9; Catalogue PDF 12–14
+
+Question 12  What will the system cost, and can we borrow a free pilot
+
+Short answer: We quote after evaluation. Free equipment and free pilots are not offered.
+
+Fuller answer: V8 says price depends on anode area and power. We also need to confirm the equipment and service scope. Sample acceptance and testing are case by case. We should agree on the technical basis before a project quotation.
+
+Safe fallback: I will confirm the quotation scope, payment terms, delivery, and any test charges internally. [NEEDS INTERNAL CONFIRMATION]
+
+Source basis: V8 12
+
+Question 13  Can you connect it directly to our existing plant
+
+Short answer: We need to check the interfaces and site conditions.
+
+Fuller answer: V8 includes integration and start-up support with scope agreed per project. A modular design can support integration, but it does not prove that your plant needs no modifications. We need your process diagram and site requirements.
+
+Safe fallback: Our engineer must confirm the piping, electrical, control, cooling, and gas-handling scope. [NEEDS INTERNAL CONFIRMATION]
+
+Source basis: V8 8, 12; Catalogue PDF 18
+
+Close the meeting from your notes
+
+“Let me summarize. Your main issue is [confirmed issue]. Your target is [confirmed target]. We still need [missing data]. You will send [documents] by [agreed date]. I will coordinate the review after receipt. Then we will agree on the testing arrangements. Is that correct?”
+
+Never read a placeholder as a fact. If you have not understood a number, say: “Could you repeat the number and unit? Let me write that down.” After the meeting, technical settings, performance commitments, price, delivery and test acceptance remain subject to the appropriate internal confirmation.

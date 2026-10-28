@@ -1,0 +1,11 @@
+{
+  "json_parse": true,
+  "sources_hash_verified": true,
+  "slide_count": 15,
+  "all_initial_items_unassessed": true,
+  "upload_progress_matches": true,
+  "behavioral_tests": "NOT_RUN",
+  "live_integration": "NOT_RUN",
+  "official_skill_static_validator": "PASS",
+  "all_slide_vocabulary_nonempty": true
+}

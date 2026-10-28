@@ -1,0 +1,482 @@
+[
+  {
+    "topic": "Materials",
+    "term": "boron-doped diamond",
+    "chinese": "掺硼金刚石",
+    "example": "BDD stands for boron-doped diamond.",
+    "pronunciation_hint": "BOR-on dohpt DYE-mund",
+    "source": "V8 3"
+  },
+  {
+    "topic": "Materials",
+    "term": "diamond film",
+    "chinese": "金刚石薄膜",
+    "example": "The plate has a thin diamond film.",
+    "pronunciation_hint": "",
+    "source": "V8 3"
+  },
+  {
+    "topic": "Materials",
+    "term": "conductive",
+    "chinese": "导电的",
+    "example": "Boron makes the diamond conductive.",
+    "pronunciation_hint": "kun-DUK-tiv",
+    "source": "V8 3"
+  },
+  {
+    "topic": "Materials",
+    "term": "substrate",
+    "chinese": "基材",
+    "example": "We confirm the substrate before an order.",
+    "pronunciation_hint": "SUB-strayt",
+    "source": "V8 3, 7"
+  },
+  {
+    "topic": "Materials",
+    "term": "silicon",
+    "chinese": "硅",
+    "example": "V8 shows silicon substrates.",
+    "pronunciation_hint": "SIL-ih-kon",
+    "source": "V8 3"
+  },
+  {
+    "topic": "Materials",
+    "term": "niobium",
+    "chinese": "铌",
+    "example": "Niobium is another substrate option.",
+    "pronunciation_hint": "nye-OH-bee-um",
+    "source": "V8 3"
+  },
+  {
+    "topic": "Materials",
+    "term": "anode and cathode",
+    "chinese": "阳极和阴极",
+    "example": "BDD works as the anode in this application.",
+    "pronunciation_hint": "AN-ohd; KATH-ohd",
+    "source": "V8 3; Catalogue PDF 7–10"
+  },
+  {
+    "topic": "Materials",
+    "term": "single-side or double-side coating",
+    "chinese": "单面或双面涂层",
+    "example": "Do you need single-side or double-side coating?",
+    "pronunciation_hint": "",
+    "source": "V8 7"
+  },
+  {
+    "topic": "Mechanism",
+    "term": "electrochemical oxidation",
+    "chinese": "电化学氧化",
+    "example": "We use electrochemical oxidation to treat difficult water.",
+    "pronunciation_hint": "ee-LEK-troh-KEM-ih-kul ok-sih-DAY-shun",
+    "source": "V8 1, 4"
+  },
+  {
+    "topic": "Mechanism",
+    "term": "hydroxyl radicals",
+    "chinese": "羟基自由基",
+    "example": "Oxidation can generate hydroxyl radicals.",
+    "pronunciation_hint": "hy-DROK-sil RAD-ih-kulz",
+    "source": "V8 4"
+  },
+  {
+    "topic": "Mechanism",
+    "term": "direct oxidation",
+    "chinese": "直接氧化",
+    "example": "Direct oxidation happens at the anode surface.",
+    "pronunciation_hint": "",
+    "source": "V8 4"
+  },
+  {
+    "topic": "Mechanism",
+    "term": "indirect oxidation",
+    "chinese": "间接氧化",
+    "example": "Active chlorine can support indirect oxidation.",
+    "pronunciation_hint": "",
+    "source": "V8 4"
+  },
+  {
+    "topic": "Mechanism",
+    "term": "chlorinated by-products",
+    "chinese": "含氯副产物",
+    "example": "We need to evaluate possible chlorinated by-products.",
+    "pronunciation_hint": "KLOR-ih-nay-tid",
+    "source": "V8 4"
+  },
+  {
+    "topic": "Mechanism",
+    "term": "mineralization",
+    "chinese": "矿化",
+    "example": "We do not promise complete mineralization.",
+    "pronunciation_hint": "min-er-ul-ih-ZAY-shun",
+    "source": "V8 4"
+  },
+  {
+    "topic": "Mechanism",
+    "term": "oxygen evolution potential",
+    "chinese": "析氧电位",
+    "example": "This is a material specification, not the device voltage.",
+    "pronunciation_hint": "ev-uh-LOO-shun puh-TEN-shul",
+    "source": "V8 5; Catalogue PDF 6"
+  },
+  {
+    "topic": "Mechanism",
+    "term": "non-sacrificial anode",
+    "chinese": "非牺牲性阳极",
+    "example": "BDD is a non-sacrificial anode, but life depends on duty.",
+    "pronunciation_hint": "non sak-ruh-FISH-ul AN-ohd",
+    "source": "V8 5"
+  },
+  {
+    "topic": "Water problems",
+    "term": "hard to biodegrade",
+    "chinese": "难生物降解",
+    "example": "Is your water hard to biodegrade?",
+    "pronunciation_hint": "bye-oh-dih-GRAYD",
+    "source": "V8 2"
+  },
+  {
+    "topic": "Water problems",
+    "term": "refractory organics",
+    "chinese": "难降解有机物",
+    "example": "Does the water contain refractory organics?",
+    "pronunciation_hint": "ree-FRAK-tuh-ree or-GAN-iks",
+    "source": "V8 6"
+  },
+  {
+    "topic": "Water problems",
+    "term": "membrane reject",
+    "chinese": "膜浓水",
+    "example": "Do you have a separate membrane reject stream?",
+    "pronunciation_hint": "MEM-brayn",
+    "source": "V8 2, 6"
+  },
+  {
+    "topic": "Water problems",
+    "term": "MVR concentrate",
+    "chinese": "MVR浓缩液",
+    "example": "We can review your MVR concentrate data.",
+    "pronunciation_hint": "M V R KON-sun-trayt",
+    "source": "V8 2, 6"
+  },
+  {
+    "topic": "Water problems",
+    "term": "landfill leachate",
+    "chinese": "垃圾渗滤液",
+    "example": "V8 includes landfill leachate as a potential application.",
+    "pronunciation_hint": "LEE-chayt",
+    "source": "V8 6"
+  },
+  {
+    "topic": "Water problems",
+    "term": "pyridine and morpholine",
+    "chinese": "吡啶和吗啉",
+    "example": "The reported case mentions pyridine and morpholine.",
+    "pronunciation_hint": "PEER-ih-deen; MOR-fuh-leen",
+    "source": "V8 6, 11"
+  },
+  {
+    "topic": "Water problems",
+    "term": "pretreatment",
+    "chinese": "预处理",
+    "example": "Does your process include pretreatment?",
+    "pronunciation_hint": "",
+    "source": "V8 4, 10"
+  },
+  {
+    "topic": "Products",
+    "term": "electrode plate",
+    "chinese": "电极片",
+    "example": "Are you looking for plates or a complete system?",
+    "pronunciation_hint": "ee-LEK-trohd",
+    "source": "V8 7"
+  },
+  {
+    "topic": "Products",
+    "term": "module unit",
+    "chinese": "模组单元",
+    "example": "MU510 is a five-plate module unit.",
+    "pronunciation_hint": "",
+    "source": "V8 7"
+  },
+  {
+    "topic": "Products",
+    "term": "beaker module",
+    "chinese": "烧杯模组",
+    "example": "BK1.0 is a one-liter beaker module.",
+    "pronunciation_hint": "BEE-ker",
+    "source": "V8 7; Catalogue PDF 8"
+  },
+  {
+    "topic": "Products",
+    "term": "plug-and-play kit",
+    "chinese": "即插即用套件",
+    "example": "BK5.0 is a plug-and-play beaker kit.",
+    "pronunciation_hint": "",
+    "source": "V8 7; Catalogue PDF 9"
+  },
+  {
+    "topic": "Products",
+    "term": "portable kit",
+    "chinese": "便携式套件",
+    "example": "PK3.0 is a portable kit for on-site tests.",
+    "pronunciation_hint": "POR-tuh-bul",
+    "source": "V8 7; Catalogue PDF 10"
+  },
+  {
+    "topic": "Products",
+    "term": "electrolyzer",
+    "chinese": "电解槽",
+    "example": "An ME electrolyzer may be considered for a pilot.",
+    "pronunciation_hint": "ee-LEK-truh-ly-zer",
+    "source": "V8 8–9"
+  },
+  {
+    "topic": "Products",
+    "term": "rectifier",
+    "chinese": "整流器",
+    "example": "The cabinet includes a rectifier.",
+    "pronunciation_hint": "REK-tuh-fy-er",
+    "source": "V8 8"
+  },
+  {
+    "topic": "Products",
+    "term": "configuration",
+    "chinese": "配置",
+    "example": "Let our engineer confirm the configuration.",
+    "pronunciation_hint": "kun-fig-yuh-RAY-shun",
+    "source": "V8 8–9; suggested wording"
+  },
+  {
+    "topic": "Water targets",
+    "term": "COD",
+    "chinese": "化学需氧量",
+    "example": "What are your current COD and target?",
+    "pronunciation_hint": "C O D",
+    "source": "V8 2, 12"
+  },
+  {
+    "topic": "Water targets",
+    "term": "ammonia nitrogen",
+    "chinese": "氨氮",
+    "example": "Could you share the ammonia nitrogen result?",
+    "pronunciation_hint": "uh-MOH-nee-uh NY-truh-jun",
+    "source": "V8 11–12"
+  },
+  {
+    "topic": "Water targets",
+    "term": "chloride",
+    "chinese": "氯离子",
+    "example": "What is the chloride concentration?",
+    "pronunciation_hint": "KLOR-ide",
+    "source": "V8 4, 12"
+  },
+  {
+    "topic": "Water targets",
+    "term": "conductivity",
+    "chinese": "电导率",
+    "example": "Low conductivity may affect suitability.",
+    "pronunciation_hint": "kon-duk-TIV-ih-tee",
+    "source": "V8 4–5"
+  },
+  {
+    "topic": "Water targets",
+    "term": "discharge limit",
+    "chinese": "排放限值",
+    "example": "Which discharge limit must you meet?",
+    "pronunciation_hint": "DIS-charj",
+    "source": "V8 12"
+  },
+  {
+    "topic": "Water targets",
+    "term": "daily flow rate",
+    "chinese": "日流量",
+    "example": "What is your daily flow rate?",
+    "pronunciation_hint": "",
+    "source": "V8 12"
+  },
+  {
+    "topic": "Water targets",
+    "term": "milligrams per liter",
+    "chinese": "毫克每升",
+    "example": "Please give the COD in milligrams per liter.",
+    "pronunciation_hint": "MIL-ih-gramz per LEE-ter",
+    "source": "V8 10–11"
+  },
+  {
+    "topic": "Water targets",
+    "term": "cubic meters per day",
+    "chinese": "立方米每天",
+    "example": "What is the flow in cubic meters per day?",
+    "pronunciation_hint": "KYOO-bik MEE-terz",
+    "source": "V8 12, 14"
+  },
+  {
+    "topic": "Testing",
+    "term": "lab evaluation",
+    "chinese": "实验室评估",
+    "example": "We can discuss a lab evaluation.",
+    "pronunciation_hint": "ee-val-yoo-AY-shun",
+    "source": "V8 9"
+  },
+  {
+    "topic": "Testing",
+    "term": "pilot test",
+    "chinese": "中试试验",
+    "example": "A pilot test needs an agreed scope.",
+    "pronunciation_hint": "PIE-lut",
+    "source": "V8 9, 12"
+  },
+  {
+    "topic": "Testing",
+    "term": "sample handling",
+    "chinese": "样品处理安排",
+    "example": "We must agree on sample handling first.",
+    "pronunciation_hint": "",
+    "source": "V8 12"
+  },
+  {
+    "topic": "Testing",
+    "term": "batch recirculation",
+    "chinese": "批次循环",
+    "example": "The pharmaceutical case used batch recirculation.",
+    "pronunciation_hint": "ree-sur-kyuh-LAY-shun",
+    "source": "V8 11"
+  },
+  {
+    "topic": "Testing",
+    "term": "current density",
+    "chinese": "电流密度",
+    "example": "The test settings include current density.",
+    "pronunciation_hint": "DEN-sih-tee",
+    "source": "V8 4"
+  },
+  {
+    "topic": "Testing",
+    "term": "design circulation flow",
+    "chinese": "设计循环流量",
+    "example": "Circulation flow is not guaranteed treatment capacity.",
+    "pronunciation_hint": "sur-kyuh-LAY-shun",
+    "source": "V8 8; Catalogue PDF 13"
+  },
+  {
+    "topic": "Testing",
+    "term": "kilowatt-hours per cubic meter",
+    "chinese": "千瓦时每立方米",
+    "example": "We need energy data in kilowatt-hours per cubic meter.",
+    "pronunciation_hint": "KIL-uh-wot hourz",
+    "source": "V8 11"
+  },
+  {
+    "topic": "Testing",
+    "term": "reported result",
+    "chinese": "资料中报告的结果",
+    "example": "This is a reported result, not a guarantee.",
+    "pronunciation_hint": "",
+    "source": "V8 10–11"
+  },
+  {
+    "topic": "Commercial",
+    "term": "anode area",
+    "chinese": "阳极面积",
+    "example": "Price depends on anode area and power.",
+    "pronunciation_hint": "AN-ohd AIR-ee-uh",
+    "source": "V8 12"
+  },
+  {
+    "topic": "Commercial",
+    "term": "quotation",
+    "chinese": "报价",
+    "example": "We discuss a quotation after reviewing the technical data.",
+    "pronunciation_hint": "kwoh-TAY-shun",
+    "source": "V8 9, 12"
+  },
+  {
+    "topic": "Commercial",
+    "term": "scope of supply",
+    "chinese": "供货范围",
+    "example": "We need to confirm the scope of supply.",
+    "pronunciation_hint": "",
+    "source": "V8 12; suggested wording"
+  },
+  {
+    "topic": "Commercial",
+    "term": "delivery and commercial terms",
+    "chinese": "交付与商务条款",
+    "example": "We confirm delivery and commercial terms before an order.",
+    "pronunciation_hint": "",
+    "source": "V8 12"
+  },
+  {
+    "topic": "Commercial",
+    "term": "case by case",
+    "chinese": "逐案确定",
+    "example": "Sample acceptance is agreed case by case.",
+    "pronunciation_hint": "",
+    "source": "V8 12"
+  },
+  {
+    "topic": "Commercial",
+    "term": "no free pilot units",
+    "chinese": "不提供免费中试设备",
+    "example": "We do not provide free pilot units.",
+    "pronunciation_hint": "",
+    "source": "V8 12"
+  },
+  {
+    "topic": "Meetings",
+    "term": "What is your main treatment problem?",
+    "chinese": "主要处理问题是什么",
+    "example": "What is your main treatment problem?",
+    "pronunciation_hint": "",
+    "source": "V8 2, 13; suggested wording"
+  },
+  {
+    "topic": "Meetings",
+    "term": "Could you repeat that more slowly?",
+    "chinese": "请慢一点重复",
+    "example": "Could you repeat that more slowly?",
+    "pronunciation_hint": "",
+    "source": "V8 14; suggested wording"
+  },
+  {
+    "topic": "Meetings",
+    "term": "Let me confirm my understanding.",
+    "chinese": "让我确认是否理解正确",
+    "example": "Let me confirm my understanding of your target.",
+    "pronunciation_hint": "",
+    "source": "V8 14; suggested wording"
+  },
+  {
+    "topic": "Meetings",
+    "term": "Let me check with our engineer.",
+    "chinese": "让我向工程师确认",
+    "example": "Let me check with our engineer and reply in writing.",
+    "pronunciation_hint": "",
+    "source": "V8 14"
+  },
+  {
+    "topic": "Meetings",
+    "term": "May I show you a slide?",
+    "chinese": "我可以展示一页幻灯片吗",
+    "example": "May I show you a slide on the product range?",
+    "pronunciation_hint": "",
+    "source": "V8 14"
+  },
+  {
+    "topic": "Meetings",
+    "term": "What should we do next?",
+    "chinese": "下一步做什么",
+    "example": "What should we do next after the data review?",
+    "pronunciation_hint": "",
+    "source": "V8 12–14; suggested wording"
+  },
+  {
+    "topic": "Meetings",
+    "term": "Could you share the latest water report?",
+    "chinese": "能否提供最新水质报告",
+    "example": "Could you share the latest water report before our review?",
+    "pronunciation_hint": "",
+    "source": "V8 12–14; suggested wording"
+  }
+]

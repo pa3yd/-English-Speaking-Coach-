@@ -1,0 +1,77 @@
+{
+  "sources": [
+    {
+      "id": "S1",
+      "path": "Boromond_BDD_Presentation_Ready(2)_SpeechReady_v8.pdf",
+      "kind": "presentation_pdf",
+      "available": true,
+      "sha256": "c01c77db23bcd674881f9631c5debdc111291adc79e0695629df53761d55e156",
+      "authority": "source-supported company statement; not independent verification"
+    },
+    {
+      "id": "S2",
+      "path": "20260521-中文目录册.pdf",
+      "kind": "catalogue_candidate",
+      "available": true,
+      "sha256": "e85f7e6810b0cb29ff31a2762112ac42eb1c466700a569e713da20525e205d93",
+      "authority": "source-supported company statement; not independent verification"
+    },
+    {
+      "id": "S3",
+      "path": "01_Full_Presentation_Scripts.docx",
+      "kind": "suggested_script",
+      "available": true,
+      "sha256": "ca1a1d1c2fea17d9d967d38b0b846e19cdb86b41c7d323d091173efd94b16bbb",
+      "authority": "derived training content; not learner history"
+    },
+    {
+      "id": "S4",
+      "path": "02_Trade_Show_Roleplay.docx",
+      "kind": "fictional_roleplay",
+      "available": true,
+      "sha256": "6d38ca228391ab725f638974227d84adf58046b63084a687bc45c7bd75fc29ca",
+      "authority": "derived training content; not learner history"
+    },
+    {
+      "id": "S5",
+      "path": "03_Online_Meeting_Roleplay.docx",
+      "kind": "fictional_roleplay",
+      "available": true,
+      "sha256": "6138623f6fe2aacf331f7208342d0e18a9377ce244fbd74eaf8b8808a1691c5d",
+      "authority": "derived training content; not learner history"
+    },
+    {
+      "id": "S6",
+      "path": "04_BDD_Vocabulary_and_Phrases.xlsx",
+      "kind": "derived_vocabulary",
+      "available": true,
+      "sha256": "a8f05c54c8ad280332b97c9a520608f237c37f843e4bc1e3d99dfecb7d2c415b",
+      "authority": "derived training content; not learner history"
+    },
+    {
+      "id": "S7",
+      "path": "05_Seven_Day_Practice_Plan.docx",
+      "kind": "suggested_plan",
+      "available": true,
+      "sha256": "430ddf8d6f45c84b93a14354137974cdf648fa6edbb528e0b4db4b444a846a7b",
+      "authority": "derived training content; not learner history"
+    },
+    {
+      "id": "S8",
+      "path": "06_Source_and_Accuracy_Check.md",
+      "kind": "prior_accuracy_audit",
+      "available": true,
+      "sha256": "8116f7c1d1450582521429f435f32779eb0ce39e556e6898a60423e3007ef11a",
+      "authority": "derived training content; not learner history"
+    }
+  ],
+  "missing": [
+    "V8 PPTX and speaker notes",
+    "verified English learning session transcripts or audio",
+    "prior English teaching prompts",
+    "original case test reports",
+    "confirmed current catalogue revision"
+  ],
+  "search_scope": "Source workspace and known attachments checked before publication; absolute paths omitted.",
+  "history_rule": "Generated materials and synthesis attempts are not evidence of learner practice or mastery."
+}

@@ -1,0 +1,327 @@
+PDF PAGE 1
+BOROMOND   ·   BDD ELECTRODES
+BDD Electrochemical
+Oxidation for Challenging
+Industrial Wastewater
+Technology, Products and Customer Applications
+Hunan Boromond EPT Co., Ltd.
+Krystal Tan  ·  International Sales
+Boromond   →   BDD   →   Industrial wastewater   →   Customer applications
+Boromond MC700 eight-cell container system.
+
+PDF PAGE 2
+01  ·  THE STARTING POINT High COD   →   Hard to biodegrade   →   Treatment target   →   Customer problem
+Start with your problem, not our product
+BOROMOND   |   BDD electrochemical oxidation   |   boromond.com 02
+High COD
+Conventional biological treatment may 
+struggle with very high COD.
+Hard to biodegrade
+Solvents, pesticides, dyes and API residues.
+Target not reached
+Your current process stops short of the 
+discharge limit.
+▪  High salt? Common in our cases — but salt changes the by-products, so we test.
+▪  Refractory concentrate? Membrane reject and MVR concentrate are typical cases.
+If two of these sound familiar, a lab test on your water is the next step.
+
+PDF PAGE 3
+02  ·  THE MATERIAL Diamond film   →   Conductive   →   Anode   →   Electrode plate
+What is BDD?
+Boron-doped diamond — a diamond film used as an electrode.
+BOROMOND   |   BDD electrochemical oxidation   |   boromond.com 03
+▪  A diamond film. Grown on a conductive plate, thinner than 10 µm.
+▪  Boron makes it conductive. Small amounts of boron turn diamond 
+into an electrode.
+▪  It works as the anode. The positive electrode, where oxidation 
+happens.
+Simple English: a plate with a very thin diamond coating — and the 
+coating is designed to stay in place.
+Real BDD plates
+Plate, disc, mesh and foam forms.
+Silicon or niobium substrate.
+Size from 2 mm to 700 mm.
+What is inside the plate
+·OH forms here
+BDD film  < 10 µm
+Substrate  ·  silicon or niobium  ·  0.5–6 mm
+Current flows up · water flows past the surface
+
+
+PDF PAGE 4
+03  ·  THE MECHANISM Wastewater   →   Anode   →   Oxidation   →   Pollutants   →   Test results
+How does BDD work?
+BOROMOND   |   BDD electrochemical oxidation   |   boromond.com 04
+Wastewater
+goes into the cell
+Oxidation at the anode
+can generate hydroxyl radicals
+·OH attacks organics
+long chains break down
+Treated water
+tested again
+Direct oxidation
+The pollutant reaches the anode surface and 
+reacts there. Part of the work is done by ·OH held 
+at the surface.
+Indirect oxidation
+In chloride-rich water, active chlorine carries 
+oxidation into the bulk water. It can also form 
+chlorinated by-products.
+What salt changes
+Salt raises conductivity, which helps. It 
+does not make every salty water 
+suitable.
+Be careful with claims: not every pollutant is fully mineralised, and not every wastewater can be treated. Result and cost depend on the water, the current 
+density and the time. Some waters also need pre-treatment first.
+
+PDF PAGE 5
+04  ·  THE VALUE Window   →   Oxygen evolution   →   Corrosion resistance   →   Limitations
+Why consider BDD?
+Four properties that matter in real industrial water.
+BOROMOND   |   BDD electrochemical oxidation   |   boromond.com 05
+High oxygen evolution potential
+2.5–2.9 V in our specification.
+Wide electrochemical window
+Up to 3.85 V in our specification.
+Chemically inert
+Stable in strong acid, alkali and high salt, within limits.
+Non-sacrificial anode
+Not consumed in normal service. Life depends on duty.
+What BDD is not
+Not the cheapest option per square metre. Not a fit for every water — very low conductivity, heavy solids or easily biodegradable water are usually 
+poor candidates.
+Test first, then quote. Specifications, not guarantees.
+
+PDF PAGE 6
+05  ·  THE FIT Lithium   →   Pharmaceutical   →   High COD   →   Fine chemicals   →   Test first
+Where can BDD be considered?
+BOROMOND   |   BDD electrochemical oxidation   |   boromond.com 06
+Lithium battery
+Production and recycling streams. Phosphate and fluoride loads, often 
+high salt.
+Pharmaceutical / API
+Pyridine, morpholine and other refractory organics. Toxic to biomass.
+High-COD refractory
+Landfill leachate, coking water, membrane and MVR concentrate.
+Fine chemical, agrochemical, dye
+Toxic, salty, coloured water that biology rejects.
+These are potential applications, not guarantees. High COD, high salt and low biodegradability are signals — the test decides.
+
+PDF PAGE 7
+06  ·  THE PRODUCTS  (1 / 2) Electrode plates   →   MU510   →   BK1.0   →   BK5.0   →   PK3.0
+Level 1 and 2: plates and testing kits
+What you build a cell with, and what you test your water with.
+BOROMOND   |   BDD electrochemical oxidation   |   boromond.com 07
+BDD electrode
+plates
+Silicon or niobium  ·  0.5–6 mm 
+substrate  ·  2–700 mm  ·  film 
+< 10 µm
+Plate / disc / mesh / custom
+▪  Single or double side coating
+▪  Custom size and connector
+Tell us your cell design and your target. We advise on substrate and 
+format before you order.
+For cell builders and OEM partners
+MU510 BDD module unit
+Five-plate stack
+BK1.0 BDD beaker module
+1 L beaker test
+BK5.0 BDD beaker kit
+Plug-and-play, 1 L
+PK3.0 BDD portable kit
+2–5 L on site
+
+
+PDF PAGE 8
+07  ·  THE PRODUCTS  (2 / 2) Module   →   Electrolyzer   →   Cabinet   →   Project requirements
+Level 3: modules, electrolyzers and systems
+The same cell design, scaled from a stack to a finished cabinet.
+BOROMOND   |   BDD electrochemical oxidation   |   boromond.com 08
+BDD module unit
+MU724 · MU924 · MU1124
+The reaction stack. Bolt it into your own cell.
+BDD module electrolyzer
+ME21424 · ME21824 · ME22224
+Two modules, sealed in a PP shell, ready to 
+pipe.
+Design inlet circulation flow: 10 m³/h
+Modular cabinet
+MC088 · MC112 · MC138
+Cabinet with rectifier, pump, controls and 
+filtration.
+Project solution
+Multi-cell cabinets in the plant
+System design and start-up support, scope 
+agreed per project.
+Modular cabinet series Single-cell
+MC088 / MC112 / MC138
+Dual-cell
+MC175 / MC225 / MC275
+Four-cell
+MC350 / MC450 / MC550
+Eight-cell
+MC700 / MC900 / MC1100
+Product images sourced from Boromond's 2026 product catalogue. Treatment performance depends on water quality and target requirements.
+
+PDF PAGE 9
+08  ·  THE ROUTE Water profile   →   Lab test   →   On-site test   →   Pilot   →   Project design
+How to choose the right product
+BOROMOND   |   BDD electrochemical oxidation   |   boromond.com 09
+1 2 3 4
+You do not have to buy every stage
+▪  Start where your data stops
+▪  A plate buyer may never need a kit
+▪  A kit result can lead straight to a pilot
+▪  The route follows the water, not the price list
+1   Lab evaluation
+BK1.0 or BK5.0 — one litre, fast answer.
+2   On-site test
+PK3.0 travels to your plant. Real water, real 
+conditions.
+3   Pilot selection
+An ME electrolyzer, sized from the test data.
+4   Project system
+Full system design with our engineers, then 
+a quotation.
+
+PDF PAGE 10
+09  ·  REPORTED CASE Difficult water   →   Pretreatment   →   Biology   →   BDD polishing   →   Reported result
+Case 1 — Wet-process phosphoric acid wastewater
+Reported case: wet-process phosphoric acid plant, Guangxi. BDD is the last stage, not the train.
+BOROMOND   |   BDD electrochemical oxidation   |   boromond.com 10
+The full train in this project — COD, mg/L
+Raw water 34,000
+Acid precipitation 21,413
+3D electro-coagulation 18,804
+Defluoridation, stage 1 18,110
+Defluoridation, deep 18,029
+UV / Fenton 6,790
+Biochemical 3,280
+BDD, 12 min 146.8
+BDD stage only:  3,280 → 146.8 mg/L in 12 minutes
+The stages before it — acid precipitation, defluoridation, UV/Fenton, biology — were not BDD.
+Reported case data, one sample series. Stage names and values as reported in the project data. Results vary with water and operating conditions.
+▪  High organic phosphorus. B/C below 0.06 — very hard for 
+biology.
+▪  Raw water: 34,000 mg/L COD, 1,520 mg/L fluoride.
+▪  Plant size: 2 × 60 m³/d in phase one.
+Raw water After BDD
+Same sample.
+Colour gone.
+12 minutes.
+
+PDF PAGE 11
+10  ·  REPORTED CASE Wastewater   →   COD   →   NH3-N   →   Energy   →   Test result
+Case 2 — Pharmaceutical wastewater
+A reported result: 30 tonnes per day, batch recirculation, BDD anode area 20.16 m².
+BOROMOND   |   BDD electrochemical oxidation   |   boromond.com 11
+▪  Contaminants: pyridine and morpholine.
+▪  Old process: graphite electrolysis, iron-carbon, air flotation, biology.
+▪  Why BDD: the old train could not reach the discharge limit.
+Target:  COD < 500 mg/L   ·   NH3-N < 50 mg/L
+Time COD mg/L NH3-N mg/L Energy kWh/m³
+0 h 2,275 80.4 0
+1 h 1,445 27.6 22.1
+2.5 h 574.5 2.14 55.3
+3 h 339 1.2 66.3
+Energy as reported, accumulated per m³ of the batch. 800 A at 6.1 → 5.2 V.
+BDD batch recirculation unit, customer site.
+In 3 hours: COD 2,275 → 339 mg/L, NH3-N 80.4 → 1.2 mg/L. Target met in this 
+test.
+
+PDF PAGE 12
+11  ·  THE PROCESS Understand   →   Review data   →   Test   →   Propose   →   Confirm
+How we work with customers
+BOROMOND   |   BDD electrochemical oxidation   |   boromond.com 12
+1
+Understand
+Your wastewater, your target, 
+your limit.
+2
+Review data
+COD, NH3-N, chloride, pH, flow.
+3
+Test
+Scope and sample handling 
+agreed case by case.
+4
+Propose
+A solution sized from the test 
+data.
+5
+Confirm
+Scope, delivery and commercial 
+terms.
+What we need from you
+▪  Water analysis, if you have it
+▪  COD and NH3-N
+▪  Chloride and pH
+▪  Flow rate, m³ per day
+▪  Your discharge limit
+▪  The deadline
+▪  Site conditions
+Our policy
+Sample acceptance and test scope: case by case.
+A quotation follows the test data.
+No free equipment or free pilot units.
+Price depends on anode area and power.
+Project consulting
+Water profile, process route, scope
+Technical support
+Data review, test planning, reports
+Manufacturing & delivery
+Electrodes, modules, cabinets
+Integration & commissioning
+Start-up support; scope per project
+
+PDF PAGE 13
+12  ·  PRACTICE Greeting   →   Problem   →   BDD   →   Application   →   Next step
+At the booth: a short conversation
+Six lines. Slow, simple, and one question at the end.
+BOROMOND   |   BDD electrochemical oxidation   |   boromond.com 13
+Visitor
+What is this machine?
+You
+It is a BDD electrode system for hard industrial wastewater.
+Visitor
+What kind of wastewater?
+You
+High COD, high salt, hard to biodegrade. Is yours similar?
+Visitor
+We have high COD from our chemical plant.
+You
+Then let us check your water data first. We can discuss a test.
+Rule for the booth: ask about their water before you explain the technology. End every talk with one clear next step.
+
+PDF PAGE 14
+13  ·  PRACTICE Open   →   Confirm   →   Explain   →   Ask   →   Next step
+Online meeting: five moves
+Open, confirm, explain, ask for data, agree the next step.
+BOROMOND   |   BDD electrochemical oxidation   |   boromond.com 14
+Open
+Thank you for your time. Can I confirm your application?
+Confirm
+30 m³/d, pharmaceutical water, target COD below 500. Correct?
+Explain
+For a lab trial: BK1.0 or BK5.0. On site: PK3.0. For a pilot: an ME electrolyzer.
+Ask
+Could you share COD, NH3-N, chloride, pH and flow?
+Next step
+First we confirm sample and testing arrangements, then discuss the solution.
+If you do not understand
+▪  “Sorry, could you repeat that?”
+▪  “Let me check that with our engineer.”
+▪  “May I show you a slide?”
+▪  “I will send the data in writing.”
+These four sentences are allowed. Use them — do not guess a 
+number.
+
+PDF PAGE 15
+Not every wastewater project is suitable for BDD.
+We start with your water quality, your treatment target and the test data.
+bdd9@boromond.com      ·      www.boromond.com
+Hunan Boromond EPT Co., Ltd.  ·  Hunan University S&T Park, No.186 Guyuan Rd., Changsha, China
+Krystal Tan  ·  International Sales
+Water quality   →   Treatment target   →   Test data   →   Next step

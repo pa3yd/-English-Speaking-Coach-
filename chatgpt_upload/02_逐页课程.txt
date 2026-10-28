@@ -1,0 +1,597 @@
+# Slide 01 BDD Electrochemical Oxidation for Challenging Industrial Wastewater
+
+Source: S1 PDF page 1; S3 versions 1 and 2.
+
+## Learner first
+Explain this slide from these keywords: Boromond • BDD • water • products • test data. Wait before showing the model answer.
+
+## Core expression
+We start with the water, then discuss the product.
+
+## Natural concise spoken version
+Good morning, everyone. I'm Krystal Tan from Hunan Boromond EPT. Today, I'll introduce our BDD technology and products for challenging industrial wastewater. I'll explain the basic idea, show our product range, and walk through two reported cases. Our starting point is always the customer's water and treatment target. We use test data to guide the next step.
+
+## Fuller reference after an attempt
+Good morning, everyone. I'm Krystal Tan from Hunan Boromond EPT. Today, I'll introduce our BDD technology and products for challenging industrial wastewater. I'll explain the basic idea, show our product range, and walk through two reported cases. Our starting point is always the customer's water and treatment target. We use test data to guide the next step.
+
+The picture shows our MC700 eight-cell container system. We also offer electrodes and smaller testing products. Think about one question today: what do we need to know before we recommend equipment?
+
+## Transition
+Let's start with the customer's problem.
+
+## Important vocabulary
+- electrochemical oxidation — 电化学氧化. We use electrochemical oxidation to treat difficult water.
+
+## Customer questions
+- What does Boromond do?
+- Do you supply only large systems?
+
+## Coaching and accuracy
+介绍路线：技术、产品、案例。设备图片不能代替选型依据。
+Use source limitations; do not turn a suggested phrase into a performance guarantee.
+
+Success: explain the core meaning in your own words and answer one follow-up accurately; reading the model is supported practice, not mastery.
+
+
+# Slide 02 Start with your problem, not our product
+
+Source: S1 PDF page 2; S3 versions 1 and 2.
+
+## Learner first
+Explain this slide from these keywords: COD • difficult organics • target • salt • process. Wait before showing the model answer.
+
+## Core expression
+Please tell us about your water and the target you need to reach.
+
+## Natural concise spoken version
+Customers may come to us with high COD, organics that are hard to biodegrade, or a process that cannot reach its treatment target. Some streams also contain a lot of salt. Membrane reject and MVR concentrate are examples worth reviewing. These are starting signals, not proof that BDD will work. First, we ask about the water and the existing process.
+
+## Fuller reference after an attempt
+Customers may come to us with high COD, organics that are hard to biodegrade, or a process that cannot reach its treatment target. Some streams also contain a lot of salt. Membrane reject and MVR concentrate are examples worth reviewing. These are starting signals, not proof that BDD will work. First, we ask about the water and the existing process.
+
+We ask where the wastewater comes from and which limit is still being missed. Salt changes the chemistry and possible by-products. We review the analysis before deciding whether a test makes sense.
+
+## Transition
+Now let me explain what BDD actually is.
+
+## Important vocabulary
+- hard to biodegrade — 难生物降解. Is your water hard to biodegrade?
+- membrane reject — 膜浓水. Do you have a separate membrane reject stream?
+- MVR concentrate — MVR浓缩液. We can review your MVR concentrate data.
+- COD — 化学需氧量. What are your current COD and target?
+- What is your main treatment problem? — 主要处理问题是什么. What is your main treatment problem?
+
+## Customer questions
+- What water information do you need?
+- Does high COD prove suitability?
+
+## Coaching and accuracy
+先问问题，不凭高COD或高盐就认定适合BDD。
+Use source limitations; do not turn a suggested phrase into a performance guarantee.
+
+Success: explain the core meaning in your own words and answer one follow-up accurately; reading the model is supported practice, not mastery.
+
+
+# Slide 03 What is BDD?
+
+Source: S1 PDF page 3; S3 versions 1 and 2.
+
+## Learner first
+Explain this slide from these keywords: diamond film • boron • conductive • anode • substrate. Wait before showing the model answer.
+
+## Core expression
+BDD is a conductive diamond coating used as an anode.
+
+## Natural concise spoken version
+BDD stands for boron-doped diamond. In simple terms, it is a plate with a very thin diamond film. Adding boron makes the diamond conductive. In this application, BDD works as the anode, the positive electrode where oxidation takes place. V8 shows silicon or niobium substrates. The catalogue also lists a film thickness below ten micrometers and different plate shapes and sizes.
+
+## Fuller reference after an attempt
+BDD stands for boron-doped diamond. In simple terms, it is a plate with a very thin diamond film. Adding boron makes the diamond conductive. In this application, BDD works as the anode, the positive electrode where oxidation takes place. V8 shows silicon or niobium substrates. The catalogue also lists a film thickness below ten micrometers and different plate shapes and sizes.
+
+The film provides the working surface. The substrate supports it. We can discuss single-side or double-side coating and custom formats. We confirm the cell design and application before an order.
+
+## Transition
+Let's look at what happens when the water enters the cell.
+
+## Important vocabulary
+- boron-doped diamond — 掺硼金刚石. BDD stands for boron-doped diamond.
+- diamond film — 金刚石薄膜. The plate has a thin diamond film.
+- conductive — 导电的. Boron makes the diamond conductive.
+- substrate — 基材. We confirm the substrate before an order.
+- silicon — 硅. V8 shows silicon substrates.
+
+## Customer questions
+- What makes diamond conductive?
+- Which electrode is the anode?
+
+## Coaching and accuracy
+区分金刚石薄膜与基材。不是整块天然金刚石，也不是永不脱落的保证。
+Use source limitations; do not turn a suggested phrase into a performance guarantee.
+
+Success: explain the core meaning in your own words and answer one follow-up accurately; reading the model is supported practice, not mastery.
+
+
+# Slide 04 How does BDD work?
+
+Source: S1 PDF page 4; S3 versions 1 and 2.
+
+## Learner first
+Explain this slide from these keywords: anode • radicals • chloride • by-products • retest. Wait before showing the model answer.
+
+## Core expression
+BDD oxidizes pollutants, but the water must be tested before and after treatment.
+
+## Natural concise spoken version
+Wastewater enters the cell. Oxidation takes place at the anode and can generate hydroxyl radicals. These can attack organic pollutants. Some reactions happen at the surface. In chloride-rich water, active chlorine can also carry oxidation into the water. That can create chlorinated by-products. We test the treated water again. We do not assume complete mineralization or the same result for every wastewater.
+
+## Fuller reference after an attempt
+Wastewater enters the cell. Oxidation takes place at the anode and can generate hydroxyl radicals. These can attack organic pollutants. Some reactions happen at the surface. In chloride-rich water, active chlorine can also carry oxidation into the water. That can create chlorinated by-products. We test the treated water again. We do not assume complete mineralization or the same result for every wastewater.
+
+Salt can improve conductivity, but that alone does not make water suitable. Results and cost depend on the water, current density, and time. Some streams need pretreatment. Color removal alone does not prove compliance.
+
+## Transition
+These reactions help explain why we consider BDD, and where we need caution.
+
+## Important vocabulary
+- electrochemical oxidation — 电化学氧化. We use electrochemical oxidation to treat difficult water.
+- hydroxyl radicals — 羟基自由基. Oxidation can generate hydroxyl radicals.
+- direct oxidation — 直接氧化. Direct oxidation happens at the anode surface.
+- indirect oxidation — 间接氧化. Active chlorine can support indirect oxidation.
+- chlorinated by-products — 含氯副产物. We need to evaluate possible chlorinated by-products.
+
+## Customer questions
+- Does chloride create risks?
+- Does clear water prove compliance?
+
+## Coaching and accuracy
+直接与间接氧化并存；含氯水要关注副产物，不能把褪色等同于完全矿化。
+Use source limitations; do not turn a suggested phrase into a performance guarantee.
+
+Success: explain the core meaning in your own words and answer one follow-up accurately; reading the model is supported practice, not mastery.
+
+
+# Slide 05 Why consider BDD?
+
+Source: S1 PDF page 5; S3 versions 1 and 2.
+
+## Learner first
+Explain this slide from these keywords: window • oxygen evolution • inert • service life • limits. Wait before showing the model answer.
+
+## Core expression
+BDD has useful properties, but it is not suitable for every water.
+
+## Natural concise spoken version
+BDD has a wide electrochemical window and a high oxygen evolution potential. It is chemically inert and works as a non-sacrificial anode. These are useful material properties, but they are not treatment guarantees. Life depends on the duty. Very low conductivity, heavy solids, or easily biodegradable water can make BDD a poor choice. We need to check suitability and cost before making a proposal.
+
+## Fuller reference after an attempt
+BDD has a wide electrochemical window and a high oxygen evolution potential. It is chemically inert and works as a non-sacrificial anode. These are useful material properties, but they are not treatment guarantees. Life depends on the duty. Very low conductivity, heavy solids, or easily biodegradable water can make BDD a poor choice. We need to check suitability and cost before making a proposal.
+
+V8 and the catalogue list two point five to two point nine volts for oxygen evolution potential, and a window up to three point eight five volts. These are material specifications. Their measurement conditions need internal confirmation.
+
+## Transition
+With those limits in mind, here are some applications we can review.
+
+## Important vocabulary
+- oxygen evolution potential — 析氧电位. This is a material specification, not the device voltage.
+- non-sacrificial anode — 非牺牲性阳极. BDD is a non-sacrificial anode, but life depends on duty.
+- conductivity — 电导率. Low conductivity may affect suitability.
+
+## Customer questions
+- How long will it last?
+- Is that voltage the device setting?
+
+## Coaching and accuracy
+材料优点不等于处理承诺。电位数字不是设备运行电压，测量条件待确认。
+[NEEDS INTERNAL CONFIRMATION] Reference electrode, electrolyte, pH and measurement method for the potential and window figures. This marker is not spoken.
+
+Success: explain the core meaning in your own words and answer one follow-up accurately; reading the model is supported practice, not mastery.
+
+
+# Slide 06 Where can BDD be considered?
+
+Source: S1 PDF page 6; S3 versions 1 and 2.
+
+## Learner first
+Explain this slide from these keywords: lithium • pharmaceutical • refractory • concentrate • test first. Wait before showing the model answer.
+
+## Core expression
+These are potential applications; testing decides the fit.
+
+## Natural concise spoken version
+Potential applications include lithium battery production and recycling, pharmaceutical wastewater, and high-COD refractory streams. We also review fine chemical, agrochemical, and dye wastewater. Examples include landfill leachate and membrane or MVR concentrate. These streams may contain organics that biological treatment struggles with. Industry names help us start a conversation. The actual water analysis and treatment target decide whether we should continue.
+
+## Fuller reference after an attempt
+Potential applications include lithium battery production and recycling, pharmaceutical wastewater, and high-COD refractory streams. We also review fine chemical, agrochemical, and dye wastewater. Examples include landfill leachate and membrane or MVR concentrate. These streams may contain organics that biological treatment struggles with. Industry names help us start a conversation. The actual water analysis and treatment target decide whether we should continue.
+
+V8 mentions phosphate and fluoride in lithium-related water. That is not a claim that BDD removes them all. It also names pyridine and morpholine in pharmaceutical water. We still need the full water profile.
+
+## Transition
+Next, I'll show the products we can use at different stages.
+
+## Important vocabulary
+- oxygen evolution potential — 析氧电位. This is a material specification, not the device voltage.
+- refractory organics — 难降解有机物. Does the water contain refractory organics?
+- membrane reject — 膜浓水. Do you have a separate membrane reject stream?
+- MVR concentrate — MVR浓缩液. We can review your MVR concentrate data.
+- landfill leachate — 垃圾渗滤液. V8 includes landfill leachate as a potential application.
+
+## Customer questions
+- Can you remove fluoride?
+- Does every pharmaceutical stream fit?
+
+## Coaching and accuracy
+行业只是线索。含磷含氟不代表BDD可以直接去除全部磷氟。
+Use source limitations; do not turn a suggested phrase into a performance guarantee.
+
+Success: explain the core meaning in your own words and answer one follow-up accurately; reading the model is supported practice, not mastery.
+
+
+# Slide 07 Level 1 and 2: plates and testing kits
+
+Source: S1 PDF page 7; S3 versions 1 and 2.
+
+## Learner first
+Explain this slide from these keywords: plates • MU510 • BK1.0 • BK5.0 • PK3.0. Wait before showing the model answer.
+
+## Core expression
+We have plates, beaker products, and a portable testing kit.
+
+## Natural concise spoken version
+We offer BDD electrode plates for cell builders and OEM partners. For testing, MU510 is a five-plate module unit. BK1.0 is a beaker module for a one-liter test. BK5.0 is a plug-and-play beaker kit, also for one liter. PK3.0 is a portable kit for on-site testing, with a recommended test volume of two to five liters. These products serve different testing needs.
+
+## Fuller reference after an attempt
+We offer BDD electrode plates for cell builders and OEM partners. For testing, MU510 is a five-plate module unit. BK1.0 is a beaker module for a one-liter test. BK5.0 is a plug-and-play beaker kit, also for one liter. PK3.0 is a portable kit for on-site testing, with a recommended test volume of two to five liters. These products serve different testing needs.
+
+A cell builder may only need plates. A lab may prefer a beaker setup. BK1.0 has an optional power supply in the catalogue. PK3.0 uses a separate water container. We confirm the supply scope before quoting.
+
+## Transition
+For larger tests and project systems, we move to the next product level.
+
+## Important vocabulary
+- substrate — 基材. We confirm the substrate before an order.
+- anode and cathode — 阳极和阴极. BDD works as the anode in this application.
+- single-side or double-side coating — 单面或双面涂层. Do you need single-side or double-side coating?
+- electrode plate — 电极片. Are you looking for plates or a complete system?
+- module unit — 模组单元. MU510 is a five-plate module unit.
+
+## Customer questions
+- Is BK5.0 five liters?
+- Does BK1.0 include power?
+
+## Coaching and accuracy
+记住角色和水量。BK5.0不是5升，PK3.0也不是固定3升；报价须确认配套范围。
+Use source limitations; do not turn a suggested phrase into a performance guarantee.
+
+Success: explain the core meaning in your own words and answer one follow-up accurately; reading the model is supported practice, not mastery.
+
+
+# Slide 08 Level 3: modules, electrolyzers and systems
+
+Source: S1 PDF page 8; S3 versions 1 and 2.
+
+## Learner first
+Explain this slide from these keywords: MU stack • ME electrolyzer • PP shell • MC cabinet • circulation. Wait before showing the model answer.
+
+## Core expression
+We scale from modules to systems using test data.
+
+## Natural concise spoken version
+At this level, we offer module units, enclosed electrolyzers, and modular cabinets. The MU724, MU924, and MU1124 units are reaction stacks. The ME21424, ME21824, and ME22224 electrolyzers contain two modules in a PP shell. Cabinets add equipment such as a rectifier, pump, controls, and filtration. We select the product level from the project requirements and test data, rather than from flow rate alone.
+
+## Fuller reference after an attempt
+At this level, we offer module units, enclosed electrolyzers, and modular cabinets. The MU724, MU924, and MU1124 units are reaction stacks. The ME21424, ME21824, and ME22224 electrolyzers contain two modules in a PP shell. Cabinets add equipment such as a rectifier, pump, controls, and filtration. We select the product level from the project requirements and test data, rather than from flow rate alone.
+
+Cabinets come in single-cell, dual-cell, four-cell, and eight-cell ranges. The ME design circulation flow is ten cubic meters per hour. That describes circulation, not guaranteed treatment capacity. We must keep those two ideas separate.
+
+## Transition
+So how do we choose a sensible starting point?
+
+## Important vocabulary
+- beaker module — 烧杯模组. BK1.0 is a one-liter beaker module.
+- electrolyzer — 电解槽. An ME electrolyzer may be considered for a pilot.
+- rectifier — 整流器. The cabinet includes a rectifier.
+- configuration — 配置. Let our engineer confirm the configuration.
+- design circulation flow — 设计循环流量. Circulation flow is not guaranteed treatment capacity.
+
+## Customer questions
+- Is ten cubic meters per hour capacity?
+- How is ME different from MU?
+
+## Coaching and accuracy
+区分MU模组、ME电解槽与MC系统。10立方米每小时是设计循环流量，不是达标处理量。
+Use source limitations; do not turn a suggested phrase into a performance guarantee.
+
+Success: explain the core meaning in your own words and answer one follow-up accurately; reading the model is supported practice, not mastery.
+
+
+# Slide 09 How to choose the right product
+
+Source: S1 PDF page 9; S3 versions 1 and 2.
+
+## Learner first
+Explain this slide from these keywords: lab • on site • pilot • project • data gap. Wait before showing the model answer.
+
+## Core expression
+Choose the next step from the missing data, not from a fixed buying sequence.
+
+## Natural concise spoken version
+The route can start with a lab evaluation using BK1.0 or BK5.0. PK3.0 can support an on-site test. An ME electrolyzer may be considered for a pilot. Project design and quotation then follow the evidence. Customers do not have to buy every stage. We start where their data stops. A plate buyer may never need a kit, and a kit result may support a pilot discussion.
+
+## Fuller reference after an attempt
+The route can start with a lab evaluation using BK1.0 or BK5.0. PK3.0 can support an on-site test. An ME electrolyzer may be considered for a pilot. Project design and quotation then follow the evidence. Customers do not have to buy every stage. We start where their data stops. A plate buyer may never need a kit, and a kit result may support a pilot discussion.
+
+At each step, we ask what question still needs an answer. Can the water reach the target? What data do our engineers need? A small test does not automatically prove full-system performance or cost.
+
+## Transition
+Let's see how treatment stages matter in a reported case.
+
+## Important vocabulary
+- plug-and-play kit — 即插即用套件. BK5.0 is a plug-and-play beaker kit.
+- electrolyzer — 电解槽. An ME electrolyzer may be considered for a pilot.
+- configuration — 配置. Let our engineer confirm the configuration.
+- lab evaluation — 实验室评估. We can discuss a lab evaluation.
+- pilot test — 中试试验. A pilot test needs an agreed scope.
+
+## Customer questions
+- Must we buy every stage?
+- Does a lab result prove full-scale cost?
+
+## Coaching and accuracy
+不是必须逐级购买。小试证明范围有限，工程选型还需放大验证。
+Use source limitations; do not turn a suggested phrase into a performance guarantee.
+
+Success: explain the core meaning in your own words and answer one follow-up accurately; reading the model is supported practice, not mastery.
+
+
+# Slide 10 Case 1 — Wet-process phosphoric acid wastewater
+
+Source: S1 PDF page 10; S3 versions 1 and 2.
+
+## Learner first
+Explain this slide from these keywords: reported • full train • pretreatment • 3280 to 146.8 • 12 minutes. Wait before showing the model answer.
+
+## Core expression
+BDD was the final stage in this reported case, after other treatment steps.
+
+## Natural concise spoken version
+This is a reported case from a wet-process phosphoric acid plant in Guangxi. The raw-water COD was thirty-four thousand milligrams per liter. Several treatment steps came before BDD, including precipitation, defluoridation, UV/Fenton, and biological treatment. At the BDD stage, COD went from three thousand two hundred eighty to one hundred forty-six point eight in twelve minutes. This result belongs to that reported sample series.
+
+## Fuller reference after an attempt
+This is a reported case from a wet-process phosphoric acid plant in Guangxi. The raw-water COD was thirty-four thousand milligrams per liter. Several treatment steps came before BDD, including precipitation, defluoridation, UV/Fenton, and biological treatment. At the BDD stage, COD went from three thousand two hundred eighty to one hundred forty-six point eight in twelve minutes. This result belongs to that reported sample series.
+
+BDD did not perform the whole reduction from raw water. V8 also reports fluoride and plant-size figures. The original project report was not supplied, so the full operating conditions and independent verification need internal confirmation.
+
+## Transition
+The next case also shows why time and energy data matter.
+
+## Important vocabulary
+- anode and cathode — 阳极和阴极. BDD works as the anode in this application.
+- pretreatment — 预处理. Does your process include pretreatment?
+- portable kit — 便携式套件. PK3.0 is a portable kit for on-site tests.
+- milligrams per liter — 毫克每升. Please give the COD in milligrams per liter.
+- reported result — 资料中报告的结果. This is a reported result, not a guarantee.
+
+## Customer questions
+- Was raw water treated by BDD alone?
+- Can my water finish in twelve minutes?
+
+## Coaching and accuracy
+只把3280到146.8归于BDD段，不能把原水34000到末端的全流程效果归给BDD。
+[NEEDS INTERNAL CONFIRMATION] Original case report, sampling method, BDD operating conditions, energy use and permission to use the case externally.
+
+Success: explain the core meaning in your own words and answer one follow-up accurately; reading the model is supported practice, not mastery.
+
+
+# Slide 11 Case 2 — Pharmaceutical wastewater
+
+Source: S1 PDF page 11; S3 versions 1 and 2.
+
+## Learner first
+Explain this slide from these keywords: batch • COD • ammonia nitrogen • 3 hours • energy. Wait before showing the model answer.
+
+## Core expression
+The targets were met in this reported test, but another water needs its own evaluation.
+
+## Natural concise spoken version
+V8 reports a pharmaceutical wastewater case with pyridine and morpholine. The unit used batch recirculation. In three hours, COD fell from two thousand two hundred seventy-five to three hundred thirty-nine milligrams per liter. Ammonia nitrogen fell from eighty point four to one point two. The stated targets were met in this test. Reported accumulated energy was sixty-six point three kilowatt-hours per cubic meter at three hours.
+
+## Fuller reference after an attempt
+V8 reports a pharmaceutical wastewater case with pyridine and morpholine. The unit used batch recirculation. In three hours, COD fell from two thousand two hundred seventy-five to three hundred thirty-nine milligrams per liter. Ammonia nitrogen fell from eighty point four to one point two. The stated targets were met in this test. Reported accumulated energy was sixty-six point three kilowatt-hours per cubic meter at three hours.
+
+The reported amount was thirty tonnes per day, with twenty point one six square meters of BDD anode area. We keep those units. The energy figure is case-specific and is not a complete operating-cost estimate.
+
+## Transition
+These cases bring us back to how we work with each customer.
+
+## Important vocabulary
+- pyridine and morpholine — 吡啶和吗啉. The reported case mentions pyridine and morpholine.
+- ammonia nitrogen — 氨氮. Could you share the ammonia nitrogen result?
+- milligrams per liter — 毫克每升. Please give the COD in milligrams per liter.
+- batch recirculation — 批次循环. The pharmaceutical case used batch recirculation.
+- kilowatt-hours per cubic meter — 千瓦时每立方米. We need energy data in kilowatt-hours per cubic meter.
+
+## Customer questions
+- Does this energy include auxiliaries?
+- Is thirty tonnes thirty cubic meters?
+
+## Coaching and accuracy
+说明时间、能耗和测试边界。30吨每天不擅自改为30立方米每天，能耗不等于全运行费。
+[NEEDS INTERNAL CONFIRMATION] Original test report, energy measurement boundary, water density, repeatability and external-use approval.
+
+Success: explain the core meaning in your own words and answer one follow-up accurately; reading the model is supported practice, not mastery.
+
+
+# Slide 12 How we work with customers
+
+Source: S1 PDF page 12; S3 versions 1 and 2.
+
+## Learner first
+Explain this slide from these keywords: understand • review • test • propose • confirm. Wait before showing the model answer.
+
+## Core expression
+We review the water, agree on testing, and then discuss a proposal.
+
+## Natural concise spoken version
+First, we understand the wastewater, target, and discharge limit. Then we review COD, ammonia nitrogen, chloride, pH, and flow. We agree on a test scope and sample handling case by case. After testing, we propose a solution and confirm delivery and commercial terms. Price depends on anode area and power. V8 states that we do not provide free equipment or free pilot units.
+
+## Fuller reference after an attempt
+First, we understand the wastewater, target, and discharge limit. Then we review COD, ammonia nitrogen, chloride, pH, and flow. We agree on a test scope and sample handling case by case. After testing, we propose a solution and confirm delivery and commercial terms. Price depends on anode area and power. V8 states that we do not provide free equipment or free pilot units.
+
+We also ask for the deadline and site conditions. Support scope is agreed per project. We should not promise sample acceptance or a free test. Next, agree who will provide the water report for review.
+
+## Transition
+Let's close with the principle behind this process.
+
+## Important vocabulary
+- COD — 化学需氧量. What are your current COD and target?
+- ammonia nitrogen — 氨氮. Could you share the ammonia nitrogen result?
+- chloride — 氯离子. What is the chloride concentration?
+- discharge limit — 排放限值. Which discharge limit must you meet?
+- daily flow rate — 日流量. What is your daily flow rate?
+
+## Customer questions
+- Is the pilot free?
+- When can you quote?
+
+## Coaching and accuracy
+测试接收和范围逐案确认；没有免费设备或免费中试。具体价格交期仍需确认。
+Use source limitations; do not turn a suggested phrase into a performance guarantee.
+
+Success: explain the core meaning in your own words and answer one follow-up accurately; reading the model is supported practice, not mastery.
+
+
+# Slide 13 At the booth: a short conversation
+
+Source: S1 PDF page 13; S3 versions 1 and 2.
+
+## Learner first
+Explain this slide from these keywords: greet • problem • simple BDD • qualify • next step. Wait before showing the model answer.
+
+## Core expression
+Could you tell me about your water first?
+
+## Natural concise spoken version
+Visitor: What is this machine?
+Krystal: It's a BDD electrode system for challenging industrial wastewater.
+Visitor: What kind of wastewater?
+Krystal: We review high-COD water and organics that are hard to biodegrade. What's your main problem?
+Visitor: Our chemical plant has high COD.
+Krystal: Could we review your water data and discuss whether a test makes sense?
+
+## Fuller reference after an attempt
+Visitor: What is this machine?
+Krystal: It's a BDD electrode system for challenging industrial wastewater.
+Visitor: What kind of wastewater?
+Krystal: We review high-COD water and organics that are hard to biodegrade. What's your main problem?
+Visitor: Our chemical plant has high COD.
+Krystal: Could we review your water data and discuss whether a test makes sense?
+
+Visitor: Can you tell me the price?
+Krystal: We first need to understand the application and equipment scope. What are your current COD and target?
+Visitor: I'll need to check.
+Krystal: That's fine. Could you send the latest water report after the show? Then we can agree on a technical review.
+
+## Transition
+For an online meeting, we can use the same logic with more detail.
+
+## Important vocabulary
+- design circulation flow — 设计循环流量. Circulation flow is not guaranteed treatment capacity.
+- What is your main treatment problem? — 主要处理问题是什么. What is your main treatment problem?
+
+## Customer questions
+- How much is it?
+- What should I send?
+
+## Coaching and accuracy
+练习页，非正式演讲计时。访客说高COD不等于合格商机。
+Use source limitations; do not turn a suggested phrase into a performance guarantee.
+
+Success: explain the core meaning in your own words and answer one follow-up accurately; reading the model is supported practice, not mastery.
+
+
+# Slide 14 Online meeting: five moves
+
+Source: S1 PDF page 14; S3 versions 1 and 2.
+
+## Learner first
+Explain this slide from these keywords: agenda • confirm • explain • ask • agree. Wait before showing the model answer.
+
+## Core expression
+Let me check that with our engineer and reply in writing.
+
+## Natural concise spoken version
+Krystal: Thank you for joining. Can we confirm the water, target, and next step today?
+Customer: Yes.
+Krystal: In this practice example, the flow is thirty cubic meters per day, with a COD target below five hundred. Is that correct?
+Customer: Yes.
+Krystal: Could you share COD, ammonia nitrogen, chloride, pH, and your current process? We'll review the data before recommending a test.
+
+## Fuller reference after an attempt
+Krystal: Thank you for joining. Can we confirm the water, target, and next step today?
+Customer: Yes.
+Krystal: In this practice example, the flow is thirty cubic meters per day, with a COD target below five hundred. Is that correct?
+Customer: Yes.
+Krystal: Could you share COD, ammonia nitrogen, chloride, pH, and your current process? We'll review the data before recommending a test.
+
+Customer: Which product would we need?
+Krystal: BK1.0 or BK5.0 may support a lab trial. PK3.0 is for a portable test. An ME electrolyzer may be considered for a pilot, depending on the data.
+Customer: Can you confirm the configuration now?
+Krystal: Let me check with our engineer. First, let's agree on the missing information and testing arrangements.
+
+## Transition
+We finish by agreeing on a practical next step.
+
+## Important vocabulary
+- cubic meters per day — 立方米每天. What is the flow in cubic meters per day?
+- Could you repeat that more slowly? — 请慢一点重复. Could you repeat that more slowly?
+- Let me confirm my understanding. — 让我确认是否理解正确. Let me confirm my understanding of your target.
+- Let me check with our engineer. — 让我向工程师确认. Let me check with our engineer and reply in writing.
+- May I show you a slide? — 我可以展示一页幻灯片吗. May I show you a slide on the product range?
+
+## Customer questions
+- Can we select a model now?
+- Who provides the missing data?
+
+## Coaching and accuracy
+30立方米每天是原页练习假设，不是第11页案例单位换算，也不是实际客户信息。
+Use source limitations; do not turn a suggested phrase into a performance guarantee.
+
+Success: explain the core meaning in your own words and answer one follow-up accurately; reading the model is supported practice, not mastery.
+
+
+# Slide 15 Not every wastewater project is suitable for BDD
+
+Source: S1 PDF page 15; S3 versions 1 and 2.
+
+## Learner first
+Explain this slide from these keywords: suitability • water • target • evidence • next action. Wait before showing the model answer.
+
+## Core expression
+Please share your water data, and we can agree on the next step.
+
+## Natural concise spoken version
+To close, not every wastewater project is suitable for BDD. We start with water quality, the treatment target, and test data. Then we discuss the right product and commercial proposal. If you'd like to explore an application, the next step is to share the water analysis and current process for review. Thank you. I'm happy to take your questions.
+
+## Fuller reference after an attempt
+To close, not every wastewater project is suitable for BDD. We start with water quality, the treatment target, and test data. Then we discuss the right product and commercial proposal. If you'd like to explore an application, the next step is to share the water analysis and current process for review. Thank you. I'm happy to take your questions.
+
+In a sales conversation, ask a useful question and listen. We do not need to explain every specification at once. We need reliable information and an agreed next action. My email and our website are on this slide.
+
+## Transition
+What would you like to discuss about your application?
+
+## Important vocabulary
+- suitable — 适合的。Not every wastewater project is suitable for BDD. (S1 page 15)
+- treatment target — 处理目标。We start with your treatment target. (S1 page 15; suggested phrasing)
+- test data — 试验数据。We need test data before the next step. (S1 page 15; suggested phrasing)
+- next step — 下一步。Let's agree on the next step. (S1 page 15; suggested phrasing)
+
+## Customer questions
+- What is the next step?
+- Can you guarantee every wastewater?
+
+## Coaching and accuracy
+结束时回到水质、目标、数据。下一步要具体，不保证所有项目适用。
+Use source limitations; do not turn a suggested phrase into a performance guarantee.
+
+Success: explain the core meaning in your own words and answer one follow-up accurately; reading the model is supported practice, not mastery.

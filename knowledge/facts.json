@@ -1,0 +1,110 @@
+[
+  {
+    "id": "F01",
+    "topic": "company",
+    "statement": "Hunan Boromond EPT Co., Ltd. develops and supplies BDD electrodes and equipment.",
+    "source_id": "S1",
+    "pdf_page": "1,7,8",
+    "status": "source_supported",
+    "limitation": "Do not add certifications or scale claims."
+  },
+  {
+    "id": "F02",
+    "topic": "material",
+    "statement": "BDD is a conductive boron-doped diamond film used as the anode in these applications.",
+    "source_id": "S1",
+    "pdf_page": "3",
+    "status": "source_supported",
+    "limitation": "Silicon and niobium shown; coating below 10 µm. No lifetime guarantee."
+  },
+  {
+    "id": "F03",
+    "topic": "mechanism",
+    "statement": "Anode oxidation can generate hydroxyl radicals; direct and indirect oxidation contribute.",
+    "source_id": "S1",
+    "pdf_page": "4",
+    "status": "source_supported",
+    "limitation": "Chloride can lead to active chlorine and chlorinated by-products. No universal mineralization."
+  },
+  {
+    "id": "F04",
+    "topic": "fit",
+    "statement": "High COD, refractory organics and salty streams are review signals, not proof of fit.",
+    "source_id": "S1",
+    "pdf_page": "2,5,6",
+    "status": "source_supported",
+    "limitation": "Low conductivity, heavy solids or easily biodegradable water can be poor candidates."
+  },
+  {
+    "id": "F05",
+    "topic": "products",
+    "statement": "MU510 is a five-plate module; BK1.0 and BK5.0 are for 1 L beaker tests; PK3.0 optimum test volume is 2–5 L.",
+    "source_id": "S1+S2",
+    "pdf_page": "S1:7; S2:7–10",
+    "status": "source_supported",
+    "limitation": "BK5.0 does not mean 5 L. BK1.0 power supply optional; confirm bill of supply."
+  },
+  {
+    "id": "F06",
+    "topic": "products",
+    "statement": "MU724/MU924/MU1124 are modules; ME21424/ME21824/ME22224 enclose two modules in PP.",
+    "source_id": "S1",
+    "pdf_page": "8",
+    "status": "source_supported",
+    "limitation": "10 m³/h is ME design circulation flow, not guaranteed treatment throughput."
+  },
+  {
+    "id": "F07",
+    "topic": "products",
+    "statement": "MC088/MC112/MC138; MC175/MC225/MC275; MC350/MC450/MC550; MC700/MC900/MC1100 are single-, dual-, four-, eight-cell series.",
+    "source_id": "S1",
+    "pdf_page": "8",
+    "status": "source_supported",
+    "limitation": "Working-area discrepancies in catalogue require internal reconciliation."
+  },
+  {
+    "id": "F08",
+    "topic": "case",
+    "statement": "Phosphoric acid case: BDD stage COD 3280→146.8 mg/L in 12 minutes, after prior treatment.",
+    "source_id": "S1",
+    "pdf_page": "10",
+    "status": "reported_case",
+    "limitation": "Raw COD 34000 mg/L is not BDD-stage inlet. Original report not supplied."
+  },
+  {
+    "id": "F09",
+    "topic": "case",
+    "statement": "Pharmaceutical batch test: COD 2275→339 mg/L; NH3-N 80.4→1.2 mg/L at 3 h; reported accumulated energy 66.3 kWh/m³.",
+    "source_id": "S1",
+    "pdf_page": "11",
+    "status": "reported_case",
+    "limitation": "30 tonnes/day retained; not converted to m³/day. Energy boundary and original report unverified."
+  },
+  {
+    "id": "F10",
+    "topic": "commercial",
+    "statement": "Review water and target, agree testing, propose from data, confirm scope and commercial terms. No free equipment or free pilot units.",
+    "source_id": "S1",
+    "pdf_page": "9,12",
+    "status": "source_supported",
+    "limitation": "Acceptance, test charges, delivery and quotation are case by case; no invented prices."
+  },
+  {
+    "id": "F11",
+    "topic": "potential",
+    "statement": "V8/electrode table gives oxygen evolution 2.5–2.9 V and window up to 3.85 V.",
+    "source_id": "S1+S2",
+    "pdf_page": "S1:5; S2:5,6",
+    "status": "needs_internal_confirmation",
+    "limitation": "Comparison table differs at 2.5–2.8 V; reference conditions unknown; not device operating voltage."
+  },
+  {
+    "id": "F12",
+    "topic": "lifetime",
+    "statement": "Lifetime depends on duty; catalogue ≥3-year statement is conditional.",
+    "source_id": "S1+S2",
+    "pdf_page": "S1:5; S2:6",
+    "status": "needs_internal_confirmation",
+    "limitation": "No unconditional warranty or recommended settings can be inferred."
+  }
+]

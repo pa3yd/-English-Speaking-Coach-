@@ -1,0 +1,186 @@
+{
+  "schema_version": "1.0",
+  "revision": 0,
+  "updated_at": null,
+  "profile": {
+    "role": "Boromond international sales",
+    "target_accent": "American English",
+    "level_self_report": "basic-to-intermediate",
+    "assessed_level": null
+  },
+  "current_lesson": {
+    "module": "daily_english",
+    "item_id": "daily-baseline",
+    "stage": "baseline_pending"
+  },
+  "next_training_target": "Tell me about your work in two or three sentences, without reading.",
+  "mastered": [],
+  "needs_consolidation": [],
+  "common_errors": [],
+  "sessions": [],
+  "pronunciation": null,
+  "pronunciation_status": "not_assessed",
+  "items": [
+    {
+      "id": "slide-01",
+      "module": "product_presentation",
+      "status": "unassessed",
+      "evidence": [],
+      "common_errors": [],
+      "next_review_date": null
+    },
+    {
+      "id": "slide-02",
+      "module": "product_presentation",
+      "status": "unassessed",
+      "evidence": [],
+      "common_errors": [],
+      "next_review_date": null
+    },
+    {
+      "id": "slide-03",
+      "module": "product_presentation",
+      "status": "unassessed",
+      "evidence": [],
+      "common_errors": [],
+      "next_review_date": null
+    },
+    {
+      "id": "slide-04",
+      "module": "product_presentation",
+      "status": "unassessed",
+      "evidence": [],
+      "common_errors": [],
+      "next_review_date": null
+    },
+    {
+      "id": "slide-05",
+      "module": "product_presentation",
+      "status": "unassessed",
+      "evidence": [],
+      "common_errors": [],
+      "next_review_date": null
+    },
+    {
+      "id": "slide-06",
+      "module": "product_presentation",
+      "status": "unassessed",
+      "evidence": [],
+      "common_errors": [],
+      "next_review_date": null
+    },
+    {
+      "id": "slide-07",
+      "module": "product_presentation",
+      "status": "unassessed",
+      "evidence": [],
+      "common_errors": [],
+      "next_review_date": null
+    },
+    {
+      "id": "slide-08",
+      "module": "product_presentation",
+      "status": "unassessed",
+      "evidence": [],
+      "common_errors": [],
+      "next_review_date": null
+    },
+    {
+      "id": "slide-09",
+      "module": "product_presentation",
+      "status": "unassessed",
+      "evidence": [],
+      "common_errors": [],
+      "next_review_date": null
+    },
+    {
+      "id": "slide-10",
+      "module": "product_presentation",
+      "status": "unassessed",
+      "evidence": [],
+      "common_errors": [],
+      "next_review_date": null
+    },
+    {
+      "id": "slide-11",
+      "module": "product_presentation",
+      "status": "unassessed",
+      "evidence": [],
+      "common_errors": [],
+      "next_review_date": null
+    },
+    {
+      "id": "slide-12",
+      "module": "product_presentation",
+      "status": "unassessed",
+      "evidence": [],
+      "common_errors": [],
+      "next_review_date": null
+    },
+    {
+      "id": "slide-13",
+      "module": "product_presentation",
+      "status": "unassessed",
+      "evidence": [],
+      "common_errors": [],
+      "next_review_date": null
+    },
+    {
+      "id": "slide-14",
+      "module": "product_presentation",
+      "status": "unassessed",
+      "evidence": [],
+      "common_errors": [],
+      "next_review_date": null
+    },
+    {
+      "id": "slide-15",
+      "module": "product_presentation",
+      "status": "unassessed",
+      "evidence": [],
+      "common_errors": [],
+      "next_review_date": null
+    },
+    {
+      "id": "daily-baseline",
+      "module": "daily_english",
+      "status": "unassessed",
+      "evidence": [],
+      "common_errors": [],
+      "next_review_date": null
+    },
+    {
+      "id": "company-intro",
+      "module": "boromond_introduction",
+      "status": "unassessed",
+      "evidence": [],
+      "common_errors": [],
+      "next_review_date": null
+    },
+    {
+      "id": "bdd-simple",
+      "module": "bdd_technology",
+      "status": "unassessed",
+      "evidence": [],
+      "common_errors": [],
+      "next_review_date": null
+    },
+    {
+      "id": "booth",
+      "module": "customer_simulation",
+      "status": "unassessed",
+      "evidence": [],
+      "common_errors": [],
+      "next_review_date": null
+    },
+    {
+      "id": "online-meeting",
+      "module": "customer_simulation",
+      "status": "unassessed",
+      "evidence": [],
+      "common_errors": [],
+      "next_review_date": null
+    }
+  ],
+  "persistence": "Workspace canonical; ChatGPT upload is a manually replaced snapshot, not a live synchronized file."
+}

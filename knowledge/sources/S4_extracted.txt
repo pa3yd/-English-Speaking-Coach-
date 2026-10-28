@@ -1,0 +1,141 @@
+Boromond BDD Trade Show Role Play
+
+A short booth conversation for Krystal Tan and a potential customer. Use it to ask useful questions, explain BDD simply, and agree on one next step.
+
+Source basis: V8 PDF, 15 pages, and the Boromond Chinese catalogue dated 20260521 found beside the attachment. V8 PPTX and speaker notes were not available. Company statements below are source-supported statements, not independently verified performance. Scripts, customer dialogue and practice prompts are suggested language. [NEEDS INTERNAL CONFIRMATION] marks unresolved facts or terms and is not spoken aloud.
+
+Practice setup
+
+Fictional visitor and needs. No customer status or project outcome is implied. Take 4–6 minutes with a partner. Read the visitor prompt, look away, and answer in your own words. If the visitor is in a hurry, ask only about the main problem, current COD, target and contact for a data review; save the rest for a meeting.
+
+Main conversation
+
+Krystal: Hello. Welcome to Boromond. What brings you to the show?
+
+Visitor: We need a better way to treat wastewater at our chemical plant.
+
+Krystal: What is the main problem with your current process?
+
+Visitor: Our COD is still above our target after biological treatment.
+
+Krystal: What are the current COD and the target?
+
+Visitor: I have the figures at the office, but not with me.
+
+Krystal: No problem. What does the water contain? Any solvents or salts?
+
+Visitor: There are solvents and chloride. What does BDD mean?
+
+Krystal: It means boron-doped diamond. We use a thin, conductive diamond coating as an anode.
+
+Visitor: How does it treat the water?
+
+Krystal: Oxidation at the anode can break down organics. The water chemistry affects the result.
+
+Visitor: So salt helps?
+
+Krystal: It can improve conductivity. But chloride can also lead to chlorinated by-products. We need to evaluate that.
+
+Visitor: What equipment do you sell?
+
+Krystal: Electrode plates, test modules and kits, electrolyzers, and cabinet systems. Are you building a cell or treating water?
+
+Visitor: We operate the treatment plant.
+
+Krystal: Then we should first review your water. What is the daily flow and current treatment process?
+
+Visitor: We need to confirm the flow. We use pretreatment and biology.
+
+Krystal: Could your water-treatment engineer share the process flow and recent analysis?
+
+Visitor: How much would a system cost?
+
+Krystal: Price depends on the required anode area, power, and scope. We need data before a project quotation.
+
+Visitor: Can you give us a free pilot unit?
+
+Krystal: We do not provide free equipment or free pilot units. Testing arrangements are agreed case by case.
+
+Visitor: Why do we need a water test?
+
+Krystal: It helps us check the target, treatment time, and energy use on your water. A case result cannot predict yours.
+
+Visitor: Could we test at our plant?
+
+Krystal: PK3.0 is a portable kit for two-to-five-liter tests. Our engineer needs to confirm whether it fits your test plan.
+
+Visitor: What should I send?
+
+Krystal: COD, ammonia nitrogen, chloride, pH, daily flow, your target, and the current process. Please include your deadline.
+
+Visitor: I'll ask our engineer to send the report after the show.
+
+Krystal: Thank you. Who should join the technical review? Let's agree on a review time once the report is ready.
+
+Visitor: Our treatment engineer and I will join. I'll confirm a time by email.
+
+Krystal: Great. I'll wait for the report and your proposed time. Here is my contact information.
+
+A visitor who may not be a good fit
+
+Visitor: Our water has low conductivity. Most of the organics are easy to biodegrade, and we have a lot of solids.
+
+Krystal: Those are reasons to be careful about BDD. Is there a specific target your existing process cannot meet?
+
+Visitor: No. We mainly want the lowest treatment cost.
+
+Krystal: Then BDD may not be the right starting point. Your treatment engineer should review the current process first.
+
+Visitor: Should we buy a testing kit anyway?
+
+Krystal: I would not recommend equipment from this information. If you later identify a difficult side stream, we can review its data.
+
+Likely follow up questions
+
+Visitor: Can it remove every organic pollutant?
+
+Suggested answer: We cannot promise that. We need to test the specific water and target.
+
+Visitor: Will it remove all the salt?
+
+Suggested answer: We should not present BDD as a desalination process. Let our engineer review your salt-related target.
+
+Visitor: How long do the electrodes last?
+
+Suggested answer: Service life depends on the duty. We need the operating conditions before confirming a project-specific expectation.
+
+Visitor: Can we buy only the plates?
+
+Suggested answer: Yes, V8 offers plates for cell builders and OEM partners. Please share your cell design and coating requirements.
+
+Visitor: Can we skip the small kit?
+
+Suggested answer: Possibly. The route follows the available data. You do not need to buy every stage.
+
+Visitor: Will the water look clear?
+
+Suggested answer: Color is only one observation. We must check the agreed treatment indicators.
+
+Visitor: Is it cheaper than our current process?
+
+Suggested answer: We need comparable treatment and cost data. I cannot confirm savings from the information we have.
+
+Visitor: Can you ship next week?
+
+Suggested answer: Let me confirm the configuration and delivery schedule internally. [NEEDS INTERNAL CONFIRMATION]
+
+If you get stuck
+
+Could you say that more slowly?
+
+Let me confirm your main treatment target.
+
+I do not have a confirmed figure. Let me check with our engineer.
+
+Could we agree on a data review as the next step?
+
+Finish with a concrete action
+
+Use a real name and an agreed date only after the visitor confirms them. Practice: “You will send the water report by [agreed date]. I will coordinate a technical review after we receive it. We will then confirm whether testing is appropriate.” Do not promise a free test, sample acceptance or a quotation deadline without internal confirmation.
+
+Memory route: Greet → ask about water → clarify target → explain simply → qualify → agree next action.
