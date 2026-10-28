@@ -1,0 +1,8 @@
+progress.local.json
+sessions/
+recordings/
+*.mp3
+*.wav
+.env
+.env.*
+__pycache__/
